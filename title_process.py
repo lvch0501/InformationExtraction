@@ -22,9 +22,16 @@ def clean_str(string):
     return string.strip().lower()
 def process_title():
     text_list = list
-    with open("clean_data/test_data.txt", encoding="utf-8", mode="r") as f:
+    with open("clean_data/train_data.txt", encoding="utf-8", mode="r") as f:
         text_list = f.readlines()
-    print(len(text_list))
+    title_text = [i.strip().split("\t")[1] for i in text_list]
+
+    s = ""
+    for i in title_text:
+        s += i+"\n"
+
+    with open("title_data/train_title.txt", mode="w", encoding="utf-8") as f:
+        f.write(s)
     print()
 
 
