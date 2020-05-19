@@ -1,0 +1,1700 @@
+Converging evidence for a pseudoautosomal cytokine receptor gene locus in schizophrenia.
+Genome-wide association study of prostate cancer identifies a second risk locus at 8q24.
+A high-density whole-genome association study reveals that APOE is the major susceptibility gene for sporadic late-onset Alzheimer's disease.
+A genome-wide association study identifies alleles in FGFR2 associated with risk of sporadic postmenopausal breast cancer.
+GAB2 alleles modify Alzheimer's risk in APOE epsilon4 carriers.
+A genome-wide association study for celiac disease identifies risk variants in the region harboring IL2 and IL21.
+A genome-wide association scan of tag SNPs identifies a susceptibility variant for colorectal cancer at 8q24.21.
+A genome-wide association scan identifies the hepatic cholesterol transporter ABCG8 as a susceptibility factor for human gallstone disease.
+Genomewide association analysis of coronary artery disease.
+Genome-wide association scan shows genetic variants in the FTO gene are associated with obesity-related traits.
+A common variant of HMGA2 is associated with adult and childhood height in the general population.
+TRAF1-C5 as a risk locus for rheumatoid arthritis--a genomewide study.
+Genome-wide association with bone mass and geometry in the Framingham Heart Study.
+Framingham Heart Study 100K project: genome-wide associations for cardiovascular disease outcomes.
+Framingham Heart Study 100K Project: genome-wide associations for blood pressure and arterial stiffness.
+A genome-wide association study of breast and prostate cancer in the NHLBI's Framingham Heart Study.
+Genome-wide association study of electrocardiographic and heart rate variability traits: the Framingham Heart Study.
+Genetic correlates of brain aging on MRI and cognitive test measures: a genome-wide association and linkage analysis in the Framingham Study.
+A genome-wide association study shows that common alleles of SMAD7 influence colorectal cancer risk.
+Two independent alleles at 6q23 associated with risk of rheumatoid arthritis.
+The GLUT9 gene is associated with serum uric acid levels in Sardinia and Chianti cohorts.
+A novel genetic marker for coronary spasm in women from a genome-wide single nucleotide polymorphism analysis.
+Genome wide association (GWA) study for early onset extreme obesity supports the role of fat mass and obesity associated gene (FTO) variants.
+Genome-wide scan identifies variation in MLXIPL associated with plasma triglycerides.
+A novel susceptibility locus for type 1 diabetes on Chr12q13 identified by a genome-wide association study.
+Genome-wide association scan in women with systemic lupus erythematosus identifies susceptibility variants in ITGAM, PXK, KIAA1542 and other loci.
+Association of systemic lupus erythematosus with C8orf13-BLK and ITGAM-ITGAX.
+Functional variants in the B-cell gene BANK1 are associated with systemic lupus erythematosus.
+LDL-cholesterol concentrations: a genome-wide association study.
+Common sequence variants on 2p15 and Xp11.22 confer susceptibility to prostate cancer.
+Genome-wide association identifies a common variant in the reelin gene that increases the risk of schizophrenia only in women.
+Newly identified genetic risk variants for celiac disease related to the immune response.
+Genome-wide association study provides evidence for a breast cancer risk locus at 6q22.33.
+A genome-wide association study in 574 schizophrenia trios using DNA pooling.
+Identification of ZNF313/RNF114 as a novel psoriasis susceptibility gene.
+Genome-wide association scan identifies a colorectal cancer susceptibility locus on 11q23 and replicates risk loci at 8q24 and 18q21.
+A genome-wide association study identifies colorectal cancer susceptibility loci on chromosomes 10p14 and 8q23.3.
+Genome-wide association scan of tag SNPs identifies a susceptibility locus for lung cancer at 15q25.1.
+A genome-wide association study of psoriasis and psoriatic arthritis identifies new disease loci.
+Bone mineral density, osteoporosis, and osteoporotic fractures: a genome-wide association study.
+Common genetic variation near MC4R is associated with waist circumference and insulin resistance.
+Common variants near MC4R are associated with fat mass, weight and risk of obesity.
+Genome-wide association scan identifies a prostaglandin-endoperoxide synthase 2 variant involved in risk of knee osteoarthritis.
+Chromosome 6p22 locus associated with clinically aggressive neuroblastoma.
+A genome-wide association study identifies novel alleles associated with hair color and skin pigmentation.
+Common sequence variants on 20q11.22 confer melanoma susceptibility.
+Phosphodiesterase 8B gene variants are associated with serum TSH levels and thyroid function.
+Variations in the G6PC2/ABCB11 genomic region are associated with fasting glucose levels.
+A genome-wide scan for common genetic variants with a large influence on warfarin maintenance dose.
+A polymorphism within the G6PC2 gene is associated with fasting plasma glucose levels.
+Genomic association analysis suggests chromosome 12 locus influencing antihypertensive response to thiazide diuretic.
+Bisphosphonate-related osteonecrosis of the jaw is associated with polymorphisms of the cytochrome P450 CYP2C8 in multiple myeloma: a genome-wide single nucleotide polymorphism analysis.
+Novel association of ABO histo-blood group antigen with soluble ICAM-1: results of a genome-wide association study of 6,578 women.
+Genome-wide association analysis in sarcoidosis and Crohn's disease unravels a common susceptibility locus on 10p12.2.
+SLCO1B1 variants and statin-induced myopathy--a genomewide study.
+PTPRD (protein tyrosine phosphatase receptor type delta) is associated with restless legs syndrome.
+Genome-wide association study of rheumatoid arthritis in the Spanish population: KLF12 as a risk locus for rheumatoid arthritis susceptibility.
+Genetic variants near TNFAIP3 on 6q23 are associated with systemic lupus erythematosus.
+Collaborative genome-wide association analysis supports a role for ANK3 and CACNA1C in bipolar disorder.
+Variants in KCNQ1 are associated with susceptibility to type 2 diabetes mellitus.
+SNPs in KCNQ1 are associated with susceptibility to type 2 diabetes in East Asian and European populations.
+Genome-wide scan on total serum IgE levels identifies FCER1A as novel susceptibility locus.
+A genome-wide association study identifies six susceptibility loci for chronic lymphocytic leukemia.
+Loci on 20q13 and 21q22 are associated with pediatric-onset inflammatory bowel disease.
+Association of a common nonsynonymous variant in GLUT9 with serum uric acid levels in old order amish.
+Common variants of FUT2 are associated with plasma vitamin B12 levels.
+Identification of PLCL1 gene for hip bone size variation in females in a genome-wide association study.
+Sequence variant on 8q24 confers susceptibility to urinary bladder cancer.
+Common variants at CD40 and other loci confer risk of rheumatoid arthritis.
+Genome-wide association study of response to methylphenidate in 187 children with attention-deficit/hyperactivity disorder.
+Variant between CPT1B and CHKB associated with susceptibility to narcolepsy.
+A genome-wide association study for late-onset Alzheimer's disease using DNA pooling.
+Association of three genetic loci with uric acid concentration and risk of gout: a genome-wide association study.
+A genome-wide association study identifies an association of a common variant in TERT with susceptibility to idiopathic pulmonary fibrosis.
+Risk variants for atrial fibrillation on chromosome 4q25 associate with ischemic stroke.
+Sequence variants in IL10, ARPC2 and multiple other loci contribute to ulcerative colitis susceptibility.
+Follow-up analysis of genome-wide association data identifies novel loci for type 1 diabetes.
+Susceptibility variants for male-pattern baldness on chromosome 20p11.
+Male-pattern baldness susceptibility locus at 20p11.
+Common variants on 1p36 and 1q42 are associated with cutaneous basal cell carcinoma but not with melanoma or pigmentation traits.
+Common variants in the JAZF1 gene associated with height identified by linkage and genome-wide association analysis.
+Genome-wide association analysis reveals putative Alzheimer's disease susceptibility loci in addition to APOE.
+Common 5p15.33 and 6p21.33 variants influence lung cancer risk.
+Lung cancer susceptibility locus at 5p15.33.
+Screening for replication of genome-wide SNP associations in sporadic ALS.
+Genetic variation in the KIF1B locus influences susceptibility to multiple sclerosis.
+Meta-analysis of genome-wide association data identifies four new susceptibility loci for colorectal cancer.
+Genome-wide association scan for stature in Chinese: evidence for ethnic specific loci.
+Genome-wide association scan for five major dimensions of personality.
+Variants in MTNR1B influence fasting glucose levels.
+Adiposity-related heterogeneity in patterns of type 2 diabetes susceptibility observed in genome-wide association data.
+A variant near MTNR1B is associated with increased fasting plasma glucose levels and type 2 diabetes risk.
+Variants in TF and HFE explain approximately 40% of genetic variation in serum-transferrin levels.
+Novel association of HK1 with glycated hemoglobin in a non-diabetic population: a genome-wide evaluation of 14,618 participants in the Women's Genome Health Study.
+A genome-wide association study identifies three loci associated with mean platelet volume.
+Genomewide association study of an AIDS-nonprogression cohort emphasizes the role played by HLA genes (ANRS Genomewide Association Study 02).
+Sequence variants at 22q13 are associated with prostate cancer risk.
+Ulcerative colitis-risk loci on chromosomes 1p36 and 12q15 found by genome-wide association study.
+A genome-wide association study identifies novel and functionally related susceptibility Loci for Kawasaki disease.
+Genetic variation in PCDH11X is associated with susceptibility to late-onset Alzheimer's disease.
+Sequence variants at the TERT-CLPTM1L locus associate with many cancer types.
+Genome-wide linkage and association analyses to identify genes influencing adiponectin levels: the GEMS Study.
+Psoriasis genome-wide association study identifies susceptibility variants within LCE gene cluster at 1q21.
+Common variation in the beta-carotene 15,15'-monooxygenase 1 gene affects circulating levels of carotenoids: a genome-wide association study.
+Genome-wide association study of anthropometric traits in Korcula Island, Croatia.
+Polymorphism in the CETP gene region, HDL cholesterol, and risk of future myocardial infarction: Genomewide analysis among 18 245 initially healthy women from the Women's Genome Health Study.
+Alpha-T-catenin (CTNNA3) gene was identified as a risk variant for toluene diisocyanate-induced asthma by genome-wide association analysis.
+Genome-wide association study of acute post-surgical pain in humans.
+Genome-wide association study of biochemical traits in Korcula Island, Croatia.
+Genome-wide association study identifies NRG1 as a susceptibility locus for Hirschsprung's disease.
+Common variants on 9q22.33 and 14q13.3 predispose to thyroid cancer in European populations.
+Sequence variants affecting eosinophil numbers associate with asthma and myocardial infarction.
+A novel variant on chromosome 7q22.3 associated with mean platelet volume, counts, and function.
+Genome-wide association study identifies a new breast cancer susceptibility locus at 6q25.1.
+Genome-wide association study of electrocardiographic conduction measures in an isolated founder population: Kosrae.
+Genome-wide and candidate gene association study of cigarette smoking behaviors.
+Genome-wide association and replication studies identified TRHR as an important gene for lean body mass.
+Key susceptibility locus for nonsyndromic cleft lip with or without cleft palate on chromosome 8q24.
+Common susceptibility alleles are unlikely to contribute as strongly as the FV and ABO loci to VTE risk: results from a GWAS approach.
+Genome-wide association study of determinants of anti-cyclic citrullinated peptide antibody titer in adults with rheumatoid arthritis.
+Genome-wide association study of vitamin B6, vitamin B12, folate, and homocysteine blood concentrations.
+A genome-wide association study confirms VKORC1, CYP2C9, and CYP4F2 as principal genetic determinants of warfarin dose.
+A genome-wide association study in chronic obstructive pulmonary disease (COPD): identification of two major susceptibility loci.
+A genome-wide association study of pulmonary function measures in the Framingham Heart Study.
+Genome-wide scan identifies CDH13 as a novel susceptibility locus contributing to blood pressure determination in two European populations.
+A multistage genome-wide association study in breast cancer identifies two new risk alleles at 1p11.2 and 14q24.1 (RAD51L1).
+Association of novel genetic Loci with circulating fibrinogen levels: a genome-wide association study in 6 population-based cohorts.
+Novel associations of CPS1, MUT, NOX4, and DPEP1 with plasma homocysteine in a healthy population: a genome-wide evaluation of 13 974 participants in the Women's Genome Health Study.
+COL4A1 is associated with arterial stiffness by genome-wide association scan.
+Genome-wide association study of tanning phenotype in a population of European ancestry.
+Meta-analysis of genome-wide scans for human adult stature identifies novel Loci and associations with measures of skeletal frame size.
+A common variant on chromosome 11q13 is associated with atopic dermatitis.
+A genome-wide association study identifies a novel locus on chromosome 18q12.2 influencing white cell telomere length.
+Identification of genetic markers associated with high-density lipoprotein-cholesterol by genome-wide screening in a Japanese population: the Suita study.
+Genomewide association studies of stroke.
+A large-scale genome-wide association study of Asian populations uncovers genetic factors influencing eight quantitative traits.
+Common genetic variants on 5p14.1 associate with autism spectrum disorders.
+Newly discovered breast cancer susceptibility loci on 3p24 and 17q23.2.
+Common variations in BARD1 influence susceptibility to high-risk neuroblastoma.
+Genome-wide association meta-analysis for total serum bilirubin levels.
+Genome-wide association and meta-analysis of bipolar disorder in individuals of European ancestry.
+Genome-wide association analysis identifies PDE4D as an asthma-susceptibility gene.
+Genome-wide association study identifies sequence variants on 6q21 associated with age at menarche.
+Loci at chromosomes 13, 19 and 20 influence age at natural menopause.
+Genetic variation in LIN28B is associated with the timing of puberty.
+Meta-analysis of genome-wide association data identifies two loci influencing age at menarche.
+Reduced expression of the Kinesin-Associated Protein 3 (KIFAP3) gene increases survival in sporadic amyotrophic lateral sclerosis.
+Primary biliary cirrhosis associated with HLA, IL12A, and IL12RB2 variants.
+A genome-wide association study identifies ITGA9 conferring risk of nasopharyngeal carcinoma.
+Common variation in KITLG and at 5q31.3 predisposes to testicular germ cell cancer.
+HLA-B*5701 genotype is a major determinant of drug-induced liver injury due to flucloxacillin.
+Genome-wide association study of bipolar disorder in European American and African American individuals.
+Meta-analysis of 28,141 individuals identifies common variants within five new loci that influence uric acid concentrations.
+REL, encoding a member of the NF-kappaB family of transcription factors, is a newly defined risk locus for rheumatoid arthritis.
+Genome-wide association study identifies new multiple sclerosis susceptibility loci on chromosomes 12 and 20.
+Meta-analysis of genome scans and replication identify CD6, IRF8 and TNFRSF1A as new multiple sclerosis susceptibility loci.
+NRXN3 is a novel locus for waist circumference: a genome-wide association study from the CHARGE Consortium.
+Sequence variants in the CLDN14 gene associate with kidney stones and bone mineral density.
+Genetic Loci associated with C-reactive protein levels and risk of coronary heart disease.
+A genome-wide association study of northwestern Europeans involves the C-type natriuretic peptide signaling pathway in the etiology of human height variation.
+Genome-wide association study of alcohol dependence.
+A genome-wide association study of acenocoumarol maintenance dosage.
+Genome-wide association study identifies five susceptibility loci for glioma.
+Variants in the CDKN2B and RTEL1 regions are associated with high-grade glioma susceptibility.
+Genome-wide association study identifies three loci associated with melanoma risk.
+Genome-wide association study identifies variants at 9p21 and 22q13 associated with development of cutaneous nevi.
+Common genetic variation near the phospholamban gene is associated with cardiac repolarisation: meta-analysis of three genome-wide association studies.
+A sequence variant in ZFHX3 on 16q22 associates with atrial fibrillation and ischemic stroke.
+Variants in ZFHX3 are associated with atrial fibrillation in individuals of European ancestry.
+A genome-wide association study of hypertension and blood pressure in African Americans.
+Genetic variants at 6p21.33 are associated with susceptibility to follicular lymphoma.
+A genome-wide association scan of RR and QT interval duration in 3 European genetically isolated populations: the EUROSPAN project.
+Genome-wide association scan identifies variants near Matrix Metalloproteinase (MMP) genes on chromosome 11q21-22 strongly associated with serum MMP-1 levels.
+Genome-wide association study identifies variants in the ABO locus associated with susceptibility to pancreatic cancer.
+A genome-wide association study identifies a new ovarian cancer susceptibility locus on 9p22.2.
+Genetic variation in the prostate stem cell antigen gene PSCA confers susceptibility to urinary bladder cancer.
+A genome-wide association study identifies a locus for nonsyndromic cleft lip with or without cleft palate on 8q24.
+Common genetic variation near melatonin receptor MTNR1B contributes to raised plasma glucose and increased risk of type 2 diabetes among Indian Asians and European Caucasians.
+Deciphering the impact of common genetic variation on lung cancer risk: a genome-wide association study.
+Genome-wide association study reveals multiple nasopharyngeal carcinoma-associated loci within the HLA region at chromosome 6p21.3.
+Loci on 7p12.2, 10q21.2 and 14q11.2 are associated with risk of childhood acute lymphoblastic leukemia.
+Germline genomic variants associated with childhood acute lymphoblastic leukemia.
+Functional variants in ADH1B and ALDH2 coupled with alcohol and smoking synergistically enhance esophageal cancer risk.
+Association of cytochrome P450 2C19 genotype with the antiplatelet effect and clinical efficacy of clopidogrel therapy.
+Genome-wide association study implicates chromosome 9q21.31 as a susceptibility locus for asthma in mexican children.
+Powerful bivariate genome-wide association analyses suggest the SOX6 gene influencing both obesity and osteoporosis phenotypes in males.
+Genome-wide association study of exercise behavior in Dutch and American adults.
+Genetic variation in GPR133 is associated with height: genome wide association study in the self-contained population of Sorbs.
+Genetic variant near IRS1 is associated with type 2 diabetes, insulin resistance and hyperinsulinemia.
+Genome-wide association study identifies 19p13.3 (UNC13A) and 9p21.2 as susceptibility loci for sporadic amyotrophic lateral sclerosis.
+Genome-wide association study identifies variants at CLU and PICALM associated with Alzheimer's disease.
+Genome-wide association study identifies variants at CLU and CR1 associated with Alzheimer's disease.
+Genome-wide significant predictors of metabolites in the one-carbon metabolism pathway.
+IL28B is associated with response to chronic hepatitis C interferon-alpha and ribavirin therapy.
+Genome-wide association of IL28B with response to pegylated interferon-alpha and ribavirin therapy for chronic hepatitis C.
+Genome-wide association and replication studies identify four variants associated with prostate cancer susceptibility.
+Genomewide association study for onset age in Parkinson disease.
+A genome-wide association analysis identified a novel susceptible locus for pathological myopia at 11q24.1.
+First genome-wide association scan on neurophysiological endophenotypes points to trans-regulation effects on SLC2A3 in dyslexic children.
+Genome-wide association study identifies variants in TMPRSS6 associated with hemoglobin levels.
+Common variants in TMPRSS6 are associated with iron status and erythrocyte volume.
+A genome-wide association study of lung cancer identifies a region of chromosome 5p15 associated with risk for adenocarcinoma.
+A genomewide association study of citalopram response in major depressive disorder.
+Sequence variants in three loci influence monocyte counts and erythrocyte volume.
+Linkage and genome-wide association analysis of obesity-related phenotypes: association of weight with the MGAT1 gene.
+Genomewide association study of movement-related adverse antipsychotic effects.
+IL21R and PTH may underlie variation of femoral neck bone mineral density as revealed by a genome-wide association study.
+A genome-wide association analysis of serum iron concentrations.
+Genome-wide association study of generalized vitiligo in an isolated European founder population identifies SMOC2, in close proximity to IDDM8.
+A genome-wide association study identifies GLT6D1 as a susceptibility locus for periodontitis.
+Germline genetic variation in an organic anion transporter polypeptide associated with methotrexate pharmacokinetics and clinical effects.
+A genome-wide association study identifies three new susceptibility loci for ulcerative colitis in the Japanese population.
+Common variants at five new loci associated with early-onset inflammatory bowel disease.
+Genome-wide association study reveals genetic risk underlying Parkinson's disease.
+A genome-wide association study reveals variants in ARL15 that influence adiponectin levels.
+Fetal hemoglobin in sickle cell anemia: genome-wide association studies suggest a regulatory region in the 5' olfactory receptor gene cluster.
+Genome-wide association study identifies two susceptibility loci for nonsyndromic cleft lip with or without cleft palate.
+Variants of DENND1B associated with asthma in children.
+Quantitative trait loci for CD4:CD8 lymphocyte ratio are associated with risk of type 1 diabetes and HIV-1 immune control.
+A genome-wide association study of amygdala activation in youths with and without bipolar disorder.
+Genetic variation in IL28B is associated with chronic hepatitis C and treatment failure: a genome-wide association study.
+A genome-wide association study identifies an osteoarthritis susceptibility locus on chromosome 7q22.
+Modeling of environmental effects in genome-wide association studies identifies SLC2A2 and HP as novel loci influencing serum cholesterol levels.
+Genome-wide association study identifies ALDH7A1 as a novel susceptibility gene for osteoporosis.
+Genetic variation in SCN10A influences cardiac conduction.
+Genome-wide association study of ankylosing spondylitis identifies non-MHC susceptibility loci.
+Genome-wide association study confirms SNPs in SNCA and the MAPT region as common risk factors for Parkinson disease.
+A genome-wide association study for age-related hearing impairment in the Saami.
+Meta-analysis of genome-wide association data identifies a risk locus for major mood disorders on 3p21.1.
+Genetic variation in GIPR influences the glucose and insulin responses to an oral glucose challenge.
+Association of JAG1 with bone mineral density and osteoporotic fractures: a genome-wide association study and follow-up replication studies.
+A genome-wide association study identifies pancreatic cancer susceptibility loci on chromosomes 13q22.1, 1q32.1 and 5p15.33.
+Genome-wide association study of asthma identifies RAD50-IL13 and HLA-DR/DQ regions.
+Genome-wide association study of recurrent early-onset major depressive disorder.
+Common variants near TERC are associated with mean telomere length.
+A weighted false discovery rate control procedure reveals alleles at FOXA2 that influence fasting glucose levels.
+Genome-wide association study identifies variants at the IL18-BCO2 locus associated with interleukin-18 levels.
+Genome-wide association study in Asian populations identifies variants in ETS1 and WDFY4 associated with systemic lupus erythematosus.
+Genome-wide association study in a high-risk isolate for multiple sclerosis reveals associated variants in STAT3 gene.
+Genome-wide association study of homocysteine levels in Filipinos provides evidence for CPS1 in women and a stronger MTHFR effect in young adults.
+Large-scale genomic studies reveal central role of ABO in sP-selectin and sICAM-1 levels.
+Common variations in PSMD3-CSF3 and PLCB4 are associated with neutrophil count.
+A genome-wide association study identifies susceptibility variants for type 2 diabetes in Han Chinese.
+Variants in FAM13A are associated with chronic obstructive pulmonary disease.
+Common variants in KCNN3 are associated with lone atrial fibrillation.
+Genetic variants in ABO blood group region, plasma soluble E-selectin levels and risk of type 2 diabetes.
+Genome-wide association study identifies polymorphisms in LEPR as determinants of plasma soluble leptin receptor levels.
+Gene variants associated with schizophrenia in a Norwegian genome-wide study are replicated in a large European cohort.
+A genome-wide association study in 19 633 Japanese subjects identified LHX3-QSOX2 and IGF1 as adult height loci.
+Genome-wide analysis reveals novel genes influencing temporal lobe structure with relevance to neurodegeneration in Alzheimer's disease.
+Common variants at 5q22 associate with pediatric eosinophilic esophagitis.
+Genome-wide association study for ulcerative colitis identifies risk loci at 7q22 and 22q13 (IL17REL).
+Chemerin, a novel adipokine in the regulation of angiogenesis.
+A variant in LIN28B is associated with 2D:4D finger-length ratio, a putative retrospective biomarker of prenatal testosterone exposure.
+Common variants of large effect in F12, KNG1, and HRG are associated with activated partial thromboplastin time.
+New sequence variants in HLA class II/III region associated with susceptibility to knee osteoarthritis identified by genome-wide association study.
+A meta-analysis of four genome-wide association studies of survival to age 90 years or older: the Cohorts for Heart and Aging Research in Genomic Epidemiology Consortium.
+Genetic variants and risk of lung cancer in never smokers: a genome-wide association study.
+Genome-wide association of lipid-lowering response to statins in combined study populations.
+A sequence variant at 4p16.3 confers susceptibility to urinary bladder cancer.
+The FOXE1 locus is a major genetic determinant for radiation-related thyroid carcinoma in Chernobyl.
+Genome-wide association study of normal tension glaucoma: common variants in SRBD1 and ELOVL5 contribute to disease susceptibility.
+Variants in ADCY5 and near CCNL1 are associated with fetal growth and birth weight.
+Genetic loci influencing kidney function and chronic kidney disease.
+Genome-wide association study of systemic sclerosis identifies CD247 as a new susceptibility locus.
+Genome-wide association study of advanced age-related macular degeneration identifies a role of the hepatic lipase gene (LIPC).
+Genome-wide association study of bipolar I disorder in the Han Chinese population.
+Genome-wide association identifies ATOH7 as a major gene determining human optic disc size.
+Genome-wide association study of circulating vitamin D levels.
+Genetic variants at 2q24 are associated with susceptibility to type 2 diabetes.
+Meta-analysis and imputation refines the association of 15q25 with smoking quantity.
+Sequence variants at CHRNB3-CHRNA6 and CYP2A6 affect smoking behavior.
+Genome-wide meta-analyses identify multiple loci associated with smoking behavior.
+Genome-wide association identifies OBFC1 as a locus involved in human leukocyte telomere biology.
+Genome-wide association study identifies variants at CSF1, OPTN and TNFRSF11A as genetic risk factors for Paget's disease of bone.
+A genome-wide association study of cleft lip with and without cleft palate identifies risk variants near MAFB and ABCA4.
+A regulatory variant in CCR6 is associated with rheumatoid arthritis susceptibility.
+Variants within the immunoregulatory CBLB gene are associated with multiple sclerosis.
+Genome-wide association study identifies five new breast cancer susceptibility loci.
+Genome-wide association study identifies a susceptibility locus for biliary atresia on 10q24.2.
+Genome-wide analysis of genetic loci associated with Alzheimer disease.
+Family-based genome-wide association scan of attention-deficit/hyperactivity disorder.
+A genome-wide association study of nasopharyngeal carcinoma identifies three new susceptibility loci.
+Genome-wide association study for vitiligo identifies susceptibility loci at 6q27 and the MHC.
+Genetic regulation of serum phytosterol levels and risk of coronary artery disease.
+Candidate genes for non-diabetic ESRD in African Americans: a genome-wide association study using pooled DNA.
+Common genetic determinants of vitamin D insufficiency: a genome-wide association study.
+A genome-wide association study of optic disc parameters.
+Variants near DMRT1, TERT and ATF7IP are associated with testicular germ cell cancer.
+Fucosyltransferase 2 (FUT2) non-secretor status is associated with Crohn's disease.
+Identification of a functional genetic variant at 16q12.1 for breast cancer risk: results from the Asia Breast Cancer Consortium.
+Genetic variations in GRIA1 on chromosome 5q33 related to asparaginase hypersensitivity.
+Identification of evidence suggestive of an association with peripheral arterial disease at the OSBPL10 locus by genome-wide investigation in the Japanese population.
+A genome-wide association study identifies genetic variants in the CDKN2BAS locus associated with endometriosis in Japanese.
+Genome-wide association study identifies variants in the MHC class I, IL10, and IL23R-IL12RB2 regions associated with Behçet's disease.
+Genome-wide association study identifies a sequence variant within the DAB2IP gene conferring susceptibility to abdominal aortic aneurysm.
+Genome-wide association studies identify IL23R-IL12RB2 and IL10 as Behçet's disease susceptibility loci.
+ITPA polymorphism affects ribavirin-induced anemia and outcomes of therapy--a genome-wide study of Japanese HCV virus patients.
+Genome-wide association of serum bilirubin levels in Korean population.
+Genome-wide association study of follicular lymphoma identifies a risk locus at 6p21.32.
+A genome-wide study identifies HLA alleles associated with lumiracoxib-related liver injury.
+Genome-wide meta-analysis for serum calcium identifies significantly associated SNPs near the calcium-sensing receptor (CASR) gene.
+Identification of candidate loci at 6p21 and 21q22 in a genome-wide association study of cardiac manifestations of neonatal lupus.
+A genome-wide scan for common alleles affecting risk for autism.
+Genome-wide association-, replication-, and neuroimaging study implicates HOMER1 in the etiology of major depression.
+Association of variants at UMOD with chronic kidney disease and kidney stones-role of age and comorbid diseases.
+The perception of quinine taste intensity is associated with common genetic variants in a bitter receptor cluster on chromosome 12.
+Genome-wide association study identifies 1p36.22 as a new susceptibility locus for hepatocellular carcinoma in chronic hepatitis B virus carriers.
+The 5p15.33 locus is associated with risk of lung adenocarcinoma in never-smoking females in Asia.
+Genome-wide association analyses identifies a susceptibility locus for tuberculosis on chromosome 18q11.2.
+Genome-wide association study identifies variants in the CFH region associated with host susceptibility to meningococcal disease.
+Association of IFIH1 and other autoimmunity risk alleles with selective IgA deficiency.
+Genome-wide association study identifies variants associated with histologic features of nonalcoholic Fatty liver disease.
+Genome-wide association study identifies new HLA class II haplotypes strongly protective against narcolepsy.
+A genome-wide association study identifies four susceptibility loci for keloid in the Japanese population.
+Common genetic variation in the HLA region is associated with late-onset sporadic Parkinson's disease.
+New loci associated with central cornea thickness include COL5A1, AKAP13 and AVGR8.
+A shared susceptibility locus in PLCE1 at 10q23 for gastric adenocarcinoma and esophageal squamous cell carcinoma.
+Chromosome 9p21 in amyotrophic lateral sclerosis in Finland: a genome-wide association study.
+Genome-wide association study identifies novel loci for plasma levels of protein C: the ARIC study.
+Genetic variation influences glutamate concentrations in brains of patients with multiple sclerosis.
+A genome-wide association study in the Japanese population identifies susceptibility loci for type 2 diabetes at UBE2E2 and C2CD4A-C2CD4B.
+Longitudinal genome-wide association of cardiovascular disease risk factors in the Bogalusa heart study.
+Identification of new genetic risk variants for type 2 diabetes.
+Dementia revealed: novel chromosome 6 locus for late-onset Alzheimer disease provides genetic evidence for folate-pathway abnormalities.
+Genome-wide association study for adiponectin levels in Filipino women identifies CDH13 and a novel uncommon haplotype at KNG1-ADIPOQ.
+Genome-wide associations and functional genomic studies of musculoskeletal adverse events in women receiving aromatase inhibitors.
+A genome-wide association study reveals susceptibility variants for non-small cell lung cancer in the Korean population.
+Genome-wide association study of increasing suicidal ideation during antidepressant treatment in the GENDEP project.
+Chromosome 9p21 in sporadic amyotrophic lateral sclerosis in the UK and seven other countries: a genome-wide association study.
+A genome-wide meta-analysis identifies novel loci associated with schizophrenia and bipolar disorder.
+Genome-wide association study to identify single nucleotide polymorphisms (SNPs) associated with the development of erectile dysfunction in African-American men after radiotherapy for prostate cancer.
+Adiponectin concentrations: a genome-wide association study.
+Genome-wide association reveals genetic effects on human Aβ42 and τ protein levels in cerebrospinal fluids: a case control study.
+Four novel Loci (19q13, 6q24, 12q24, and 5q14) influence the microcirculation in vivo.
+Genome-wide association analysis of body mass in chronic obstructive pulmonary disease.
+A genome-wide association study of Hodgkin's lymphoma identifies new susceptibility loci at 2p16.1 (REL), 8q24.21 and 10p14 (GATA3).
+Identification of genomic predictors of atrioventricular conduction: using electronic medical records as a tool for genome science.
+Genetic predictors of medically refractory ulcerative colitis.
+ELF1 is associated with systemic lupus erythematosus in Asian populations.
+PCSK6 is associated with handedness in individuals with dyslexia.
+Genome-wide association study on overall survival of advanced non-small cell lung cancer patients treated with carboplatin and paclitaxel.
+Genome-wide association study confirms BST1 and suggests a locus on 12q24 as the risk loci for Parkinson's disease in the European population.
+Genome-wide association study identifies a new locus for coronary artery disease on chromosome 10p11.23.
+Genome-wide association study identifies two novel regions at 11p15.5-p13 and 1p31 with major impact on acute-phase serum amyloid A.
+Genome-wide association meta-analysis of cortical bone mineral density unravels allelic heterogeneity at the RANKL locus and potential pleiotropic effects on bone.
+Genome-wide association studies reveal genetic variants in CTNND2 for high myopia in Singapore Chinese.
+A genome-wide association analysis implicates SOX6 as a candidate gene for wrist bone mass.
+Genome-wide pharmacogenomic study of neurocognition as an indicator of antipsychotic treatment response in schizophrenia.
+SNPs on chromosome 5p15.3 associated with myocardial infarction in Japanese population.
+Genome-wide interrogation identifies YAP1 variants associated with survival of small-cell lung cancer patients.
+Genome-wide association with MRI atrophy measures as a quantitative trait locus for Alzheimer's disease.
+Integrative genomics identifies LMO1 as a neuroblastoma oncogene.
+A pilot genome-wide association study shows genomic variants enriched in the non-tumor cells of patients with well-differentiated neuroendocrine tumors of the ileum.
+Novel association to the proprotein convertase PCSK7 gene locus revealed by analysing soluble transferrin receptor (sTfR) levels.
+Genetic correction of PSA values using sequence variants associated with PSA levels.
+Meta-analysis of genome-wide association studies for personality.
+Acetaminophen-NAPQI hepatotoxicity: a cell line model system genome-wide association study.
+Common variants near ATM are associated with glycemic response to metformin in type 2 diabetes.
+Genome-wide association study for C-reactive protein levels identified pleiotropic associations in the IL6 locus.
+Genetic variation in NCAM1 contributes to left ventricular wall thickness in hypertensive families.
+Genome-wide association studies of adolescent idiopathic scoliosis suggest candidate susceptibility genes.
+A genome-wide association study identifies novel loci associated with circulating IGF-I and IGFBP-3.
+A genome-wide association analysis reveals 1p31 and 2p13.3 as susceptibility loci for Kawasaki disease.
+IL-28B predicts response to chronic hepatitis C therapy--fine-mapping and replication study in Asian populations.
+Novel breast cancer susceptibility locus at 9q31.2: results of a genome-wide association study.
+Genome-wide association studies identify genetic loci related to alcohol consumption in Korean men.
+Common variants in ZNF365 are associated with both mammographic density and breast cancer risk.
+Genome-wide association study of diabetic retinopathy in a Taiwanese population.
+Genome-wide association studies in Asians confirm the involvement of ATOH7 and TGFBR3, and further identify CARD10 as a novel locus influencing optic disc area.
+Genome-wide association of familial late-onset Alzheimer's disease replicates BIN1 and CLU and nominates CUGBP2 in interaction with APOE.
+Genome-wide analysis identifies a quantitative trait locus in the MHC class II region associated with generalized vitiligo age of onset.
+Genome-wide association study identifies genetic variants influencing F-cell levels in sickle-cell patients.
+Risk HLA-DQA1 and PLA(2)R1 alleles in idiopathic membranous nephropathy.
+Genome-wide association study identifies genetic variation in neurocan as a susceptibility factor for bipolar disorder.
+Meta-analysis of genome-wide association studies in celiac disease and rheumatoid arthritis identifies fourteen non-HLA shared loci.
+Meta-analysis for genome-wide association study identifies multiple variants at the BIN1 locus associated with late-onset Alzheimer's disease.
+Genome-wide association study identifies single nucleotide polymorphism in DYRK1A associated with replication of HIV-1 in monocyte-derived macrophages.
+Association of intronic sequence variant in the gene encoding spleen tyrosine kinase with susceptibility to vascular dementia.
+Confirmation of ALDH2 as a Major locus of drinking behavior and of its variants regulating multiple metabolic phenotypes in a Japanese population.
+Differential genetic associations for systemic lupus erythematosus based on anti-dsDNA autoantibody production.
+Cerivastatin, genetic variants, and the risk of rhabdomyolysis.
+Genome-wide association study identifies a single major locus contributing to survival into old age; the APOE locus revisited.
+A genome-wide association study of attempted suicide.
+Genome-wide meta-analysis for severe diabetic retinopathy.
+Meta-analysis of genome-wide association for migraine in six population-based European cohorts.
+Genome-wide association study identifies genetic loci associated with iron deficiency.
+Common variants at ABCA7, MS4A6A/MS4A4E, EPHA1, CD33 and CD2AP are associated with Alzheimer's disease.
+A genome-wide association study identifies three loci associated with susceptibility to uterine fibroids.
+Common variants at MS4A4/MS4A6E, CD2AP, CD33 and EPHA1 are associated with late-onset Alzheimer's disease.
+Genome-wide association and genetic functional studies identify autism susceptibility candidate 2 gene (AUTS2) in the regulation of alcohol consumption.
+Common variants on 14q32 and 13q12 are associated with DLBCL susceptibility.
+Genome-wide association study identifies nidogen 1 (NID1) as a susceptibility locus to cutaneous nevi and melanoma risk.
+Genome-wide association study of survival in non-small cell lung cancer patients receiving platinum-based chemotherapy.
+Impact of DISC1 variation on neuroanatomical and neurocognitive phenotypes.
+Susceptibility to amoxicillin-clavulanate-induced liver injury is influenced by multiple HLA class I and II alleles.
+Eight common genetic variants associated with serum DHEAS levels suggest a key role in ageing mechanisms.
+Genome-wide association study identifies a common variant associated with risk of endometrial cancer.
+Genome-wide association study identifies a susceptibility locus for HCV-induced hepatocellular carcinoma.
+The human AIRE gene at chromosome 21q22 is a genetic determinant for the predisposition to rheumatoid arthritis in Japanese population.
+A genome-wide association study reveals association between common variants in an intergenic region of 4q25 and high-grade myopia in the Chinese Han population.
+Genetic predictors of fibrin D-dimer levels in healthy adults.
+GWAS of follicular lymphoma reveals allelic heterogeneity at 6p21.32 and suggests shared genetic susceptibility with diffuse large B-cell lymphoma.
+Genome-wide association analysis of soluble ICAM-1 concentration reveals novel associations at the NFKBIK, PNPLA3, RELA, and SH2B3 loci.
+A genome-wide association study on obesity and obesity-related traits.
+Chromosome 7p11.2 (EGFR) variation influences glioma risk.
+Genome-wide association study implicates PARD3B-based AIDS restriction.
+Duffy-null-associated low neutrophil counts influence HIV-1 susceptibility in high-risk South African black women.
+Genome-wide association study identifies susceptibility loci for open angle glaucoma at TMCO1 and CDKN2B-AS1.
+Genome-wide association scan for survival on dialysis in African-Americans with type 2 diabetes.
+A second independent locus within DMRT1 is associated with testicular germ cell tumor susceptibility.
+A genome-wide association study of metabolic traits in human urine.
+Common variants in a novel gene, FONG on chromosome 2q33.1 confer risk of osteoporosis in Japanese.
+Genome-wide association study of prostate cancer in men of African ancestry identifies a susceptibility locus at 17q21.
+Association study on long-living individuals from Southern Italy identifies rs10491334 in the CAMKIV gene that regulates survival proteins.
+Genome-wide association analysis of gender differences in major depressive disorder in the Netherlands NESDA and NTR population-based samples.
+Genome-wide association identifies three new susceptibility loci for Paget's disease of bone.
+The membrane-spanning 4-domains, subfamily A (MS4A) gene cluster contains a common variant associated with Alzheimer's disease.
+Genetic variants at 13q12.12 are associated with high myopia in the Han Chinese population.
+Mayo Genome Consortia: a genotype-phenotype resource for genome-wide association studies with an application to the analysis of circulating bilirubin levels.
+Genome-wide association with C-reactive protein levels in CLHNS: evidence for the CRP and HNF1A loci and their interaction with exposure to a pathogenic environment.
+Genome-wide association and meta-analysis in populations from Starr County, Texas, and Mexico City identify type 2 diabetes susceptibility loci and enrichment for expression quantitative trait loci in top signals.
+Association between single nucleotide polymorphism-genotype and outcome of patients with chronic lymphocytic leukemia in a randomized chemotherapy trial.
+Genome-wide association study identified ITPA/DDRGK1 variants reflecting thrombocytopenia in pegylated interferon and ribavirin therapy for chronic hepatitis C.
+Common variants near FRK/COL10A1 and VEGFA are associated with advanced age-related macular degeneration.
+Genome-wide association study identifies two loci strongly affecting transferrin glycosylation.
+Association of variants in FRAP1 and PDGFRA with corneal curvature in Asian populations from Singapore.
+Genome-wide association study reveals three susceptibility loci for common migraine in the general population.
+Genome-wide association study identifies two new susceptibility loci for atopic dermatitis in the Chinese Han population.
+Genome-wide association study of smoking behaviours in patients with COPD.
+Genome-wide association studies of cerebral white matter lesion burden: the CHARGE consortium.
+Genome-wide association analysis of age at onset in schizophrenia in a European-American sample.
+A meta-analysis of two genome-wide association studies identifies 3 new loci for alcohol dependence.
+Complement receptor 1 gene variants are associated with erythrocyte sedimentation rate.
+Novel locus FER is associated with serum HMW adiponectin levels.
+Genome-wide association of BMI in African Americans.
+Genome-wide association study identifies novel alleles associated with risk of cutaneous basal cell carcinoma and squamous cell carcinoma.
+Web-based genome-wide association study identifies two novel loci and a substantial genetic component for Parkinson's disease.
+A unique genome-wide association analysis in extended Utah high-risk pedigrees identifies a novel melanoma risk variant on chromosome arm 10q.
+Genome wide association study identifies KCNMA1 contributing to human obesity.
+A genome-wide association study confirms APOE as the major gene influencing survival in long-lived individuals.
+Genome-wide association study of white blood cell count in 16,388 African Americans: the continental origins and genetic epidemiology network (COGENT).
+Variation in the DEPDC5 locus is associated with progression to hepatocellular carcinoma in chronic hepatitis C virus carriers.
+A genome-wide association study identifies two new lung cancer susceptibility loci at 13q12.12 and 22q12.2 in Han Chinese.
+Genome-wide association study identifies common variants associated with circulating vitamin E levels.
+Wnt signaling and Dupuytren's disease.
+Genome-wide scan identifies TNIP1, PSORS1C1, and RHOB as novel risk loci for systemic sclerosis.
+Genome-wide association study identifies new prostate cancer susceptibility loci.
+European genome-wide association study identifies SLC14A1 as a new urinary bladder cancer susceptibility gene.
+A genome-wide association study of chronic hepatitis B identified novel risk locus in a Japanese population.
+Identification of novel genetic markers associated with clinical phenotypes of systemic sclerosis through a genome-wide association strategy.
+Assessment of genetic determinants of the association of γ' fibrinogen in relation to cardiovascular disease.
+Genome-wide association study identifies novel restless legs syndrome susceptibility loci on 2p14 and 16q12.1.
+Identification of cis- and trans-acting genetic variants explaining up to half the variation in circulating vascular endothelial growth factor levels.
+Genetic determinants of cardiovascular events among women with migraine: a genome-wide association study.
+A genome-wide association study of hepatitis B vaccine response in an Indonesian population reveals multiple independent risk variants in the HLA region.
+Meta-analysis of new genome-wide association studies of colorectal cancer risk.
+Genome-wide association study for serum urate concentrations and gout among African Americans identifies genomic risk loci and a novel URAT1 loss-of-function allele.
+A genome-wide association study reveals a quantitative trait locus of adiponectin on CDH13 that predicts cardiometabolic outcomes.
+Genome-wide association study on bipolar disorder in the Bulgarian population.
+Genome-wide association study identifies HLA-DP as a susceptibility gene for pediatric asthma in Asian populations.
+A genome-wide association study confirms previously reported loci for type 2 diabetes in Han Chinese.
+Genome-wide association study identifies three new susceptibility loci for adult asthma in the Japanese population.
+Common variation at 10p12.31 near MLLT10 influences meningioma risk.
+Genome-wide association study identifies variations in 6p21.3 associated with nevirapine-induced rash.
+Association of genetic variants on 15q12 with cortical thickness and cognition in schizophrenia.
+Genome-wide association study identifies candidate genes for Parkinson's disease in an Ashkenazi Jewish population.
+A genome-wide association study of bladder cancer identifies a new susceptibility locus within SLC14A1, a urea transporter gene on chromosome 18q12.3.
+DPP6 as a candidate gene for neuroleptic-induced tardive dyskinesia.
+A genome-wide association study identifies two new risk loci for Graves' disease.
+Common variants at the promoter region of the APOM confer a risk of rheumatoid arthritis.
+A variant in MCF2L is associated with osteoarthritis.
+The 18p11.22 locus is associated with never smoker non-small cell lung cancer susceptibility in Korean populations.
+Genome-wide association analysis of coffee drinking suggests association with CYP1A1/CYP1A2 and NRCAM.
+A genome-wide association study identifies a region at chromosome 12 as a potential susceptibility locus for restenosis after percutaneous coronary intervention.
+Genome-wide association study of circulating retinol levels.
+Genetic variants, plasma lipoprotein(a) levels, and risk of cardiovascular morbidity and mortality among two prospective cohorts of type 2 diabetes.
+Genome-wide association study identifies genetic variants in GOT1 determining serum aspartate aminotransferase levels.
+Genome-wide association study identifies four loci associated with eruption of permanent teeth.
+Genome-wide association study identifies breast cancer risk variant at 10q21.2: results from the Asia Breast Cancer Consortium.
+Identification of IL6R and chromosome 11q13.5 as risk loci for asthma.
+Genome-wide association study of HPV seropositivity.
+Genome-wide association study identifies two susceptibility loci for exudative age-related macular degeneration in the Japanese population.
+A whole-genome association study of major determinants for allopurinol-related Stevens-Johnson syndrome and toxic epidermal necrolysis in Japanese patients.
+Genome-wide association study identifies five new schizophrenia loci.
+Genome-wide association study identifies novel loci predisposing to cutaneous melanoma.
+A germline variant in the TP53 polyadenylation signal confers cancer susceptibility.
+A genome-wide association study with DNA pooling identifies the variant rs11866328 in the GRIN2A gene that affects disease progression of chronic HBV infection.
+A genome-wide association study identifies a potential novel gene locus for keratoconus, one of the commonest causes for corneal transplantation in developed countries.
+Genetic determinants of serum testosterone concentrations in men.
+Identification, replication, and fine-mapping of Loci associated with adult height in individuals of african ancestry.
+Variants near FOXE1 are associated with hypothyroidism and other thyroid conditions: using electronic medical records for genome- and phenome-wide studies.
+Genome-wide association study identifies a new melanoma susceptibility locus at 1q21.3.
+Genome-wide association study identifies three new melanoma susceptibility loci.
+Eight genetic loci associated with variation in lipoprotein-associated phospholipase A2 mass and activity and coronary heart disease: meta-analysis of genome-wide association studies from five community-based studies.
+Genome-wide association study identifies susceptibility loci for dengue shock syndrome at MICB and PLCE1.
+Large-scale genome-wide association study of Asian population reveals genetic factors in FRMD4A and other loci influencing smoking initiation and nicotine dependence.
+A genome-wide association study identifies a novel susceptibility locus for renal cell carcinoma on 12p11.23.
+Association of 8q22.3 locus in Chinese Han with idiopathic premature ovarian failure (POF).
+Genome-wide significant association between alcohol dependence and a variant in the ADH gene cluster.
+Genome-wide association analysis of age-at-onset in Alzheimer's disease.
+Genome-wide association study of Alzheimer's disease with psychotic symptoms.
+Genome-wide scan for loci of adolescent obesity and their relationship with blood pressure.
+A genome-wide screen for interactions reveals a new locus on 4p15 modifying the effect of waist-to-hip ratio on total cholesterol.
+Polymorphic markers associated with severe oxaliplatin-induced, chronic peripheral neuropathy in colon cancer patients.
+Identification of two new loci at IL23R and RAB32 that influence susceptibility to leprosy.
+A genome-wide association study identifies common variants near LBX1 associated with adolescent idiopathic scoliosis.
+Susceptibility variants on chromosome 7p21.1 suggest HDAC9 as a new candidate gene for male-pattern baldness.
+Genome-wide association study identifies a susceptibility locus for schizophrenia in Han Chinese at 11p11.2.
+A common variant at the TERT-CLPTM1L locus is associated with estrogen receptor-negative breast cancer.
+Common variants on 8p12 and 1q24.2 confer risk of schizophrenia.
+A genome-wide association study identifies new susceptibility loci for non-cardia gastric cancer at 3q13.31 and 5p13.1.
+Genetic variants associated with the white blood cell count in 13,923 subjects in the eMERGE Network.
+A genome-wide meta-analysis of genetic variants associated with allergic rhinitis and grass sensitization and their interaction with birth order.
+Loci affecting gamma-glutamyl transferase in adults and adolescents show age × SNP interaction and cardiometabolic disease associations.
+A genome-wide scan for common variants affecting the rate of age-related cognitive decline.
+Abdominal aortic aneurysm is associated with a variant in low-density lipoprotein receptor-related protein 1.
+Bivariate genome-wide association analyses of femoral neck bone geometry and appendicular lean mass.
+CDH13 gene coding T-cadherin influences variations in plasma adiponectin levels in the Japanese population.
+Common genetic variation in the 3'-BCL11B gene desert is associated with carotid-femoral pulse wave velocity and excess cardiovascular disease risk: the AortaGen Consortium.
+A genome-wide association study of plasma total IgE concentrations in the Framingham Heart Study.
+Clinical and genetic association of serum ceruloplasmin with cardiovascular risk.
+A genome-wide association study of COPD identifies a susceptibility locus on chromosome 19q13.
+Identification of germline susceptibility loci in ETV6-RUNX1-rearranged childhood acute lymphoblastic leukemia.
+Genome-wide association study identifies FCGR2A as a susceptibility locus for Kawasaki disease.
+A genome-wide meta-analysis of nodular sclerosing Hodgkin lymphoma identifies risk loci at 6p21.32.
+Genome-wide association study identifies multiple novel loci associated with disease progression in subjects with mild cognitive impairment.
+UGT1A1 is a major locus influencing bilirubin levels in African Americans.
+Two-stage genome-wide association study identifies variants in CAMSAP1L1 as susceptibility loci for epilepsy in Chinese.
+Common variation at 3p22.1 and 7p15.3 influences multiple myeloma risk.
+Genome-wide study identifies PTPRO and WDR72 and FOXQ1-SUMO1P1 interaction associated with neurocognitive function.
+Genome-wide study links MTMR7 gene to variant Creutzfeldt-Jakob risk.
+Genome-wide meta-analysis of five Asian cohorts identifies PDGFRA as a susceptibility locus for corneal astigmatism.
+Genome-wide meta-analysis identifies novel multiple sclerosis susceptibility loci.
+New variants at 10q26 and 15q21 are associated with aggressive prostate cancer in a genome-wide association study from a prostate biopsy screening cohort.
+Genes linked to energy metabolism and immunoregulatory mechanisms are associated with subcutaneous adipose tissue distribution in HIV-infected men.
+A genome-wide association study in Han Chinese identifies new susceptibility loci for ankylosing spondylitis.
+Genome-wide association study for coronary artery calcification with follow-up in myocardial infarction.
+A genome-wide association study of overall survival in pancreatic cancer patients treated with gemcitabine in CALGB 80303.
+Genome-wide meta-analysis of psoriatic arthritis identifies susceptibility locus at REL.
+Polymorphisms in B3GAT1, SLC9A9 and MGAT5 are associated with variation within the human plasma N-glycome of 3533 European adults.
+A genome-wide association study identifies locus at 10q22 associated with clinical outcomes of adjuvant tamoxifen therapy for breast cancer patients in Japanese.
+Genome-wide association study meta-analysis of European and Asian-ancestry samples identifies three novel loci associated with bipolar disorder.
+Association between chromosome 9p21 variants and the ankle-brachial index identified by a meta-analysis of 21 genome-wide association studies.
+A genome-wide association study in Han Chinese identifies multiple susceptibility loci for IgA nephropathy.
+A genome-wide association study in Chinese men identifies three risk loci for non-obstructive azoospermia.
+Meta-analysis of genome-wide association studies identifies three new risk loci for atopic dermatitis.
+Genome-wide associated loci influencing interleukin (IL)-10, IL-1Ra, and IL-6 levels in African Americans.
+A genome-wide association and gene-environment interaction study for serum triglycerides levels in a healthy Chinese male population.
+Genome-wide association study in multiple human prion diseases suggests genetic risk factors additional to PRNP.
+Identification of novel germline polymorphisms governing capecitabine sensitivity.
+A genome-wide association search for type 2 diabetes genes in African Americans.
+A genome-wide search for loci interacting with known prostate cancer risk-associated genetic variants.
+Genome-wide association of serum uric acid concentration: replication of sequence variants in an island population of the Adriatic coast of Croatia.
+Novel genetic markers of breast cancer survival identified by a genome-wide association study.
+A genome-wide association study of gestational diabetes mellitus in Korean women.
+Genome wide association study for plasma levels of natural anticoagulant inhibitors and protein C anticoagulant pathway: the MARTHA project.
+Genome-wide association study of N370S homozygous Gaucher disease reveals the candidacy of CLN8 gene as a genetic modifier contributing to extreme phenotypic variation.
+Discovery of common variants associated with low TSH levels and thyroid cancer risk.
+A genome-wide association study identified AFF1 as a susceptibility locus for systemic lupus eyrthematosus in Japanese.
+A genome-wide association scan on the levels of markers of inflammation in Sardinians reveals associations that underpin its complex regulation.
+Genome-wide association study of classical Hodgkin lymphoma and Epstein-Barr virus status-defined subgroups.
+Genome-wide association study for intracranial aneurysm in the Japanese population identifies three candidate susceptible loci and a functional genetic variant at EDNRA.
+1000 Genomes-based imputation identifies novel and refined associations for the Wellcome Trust Case Control Consortium phase 1 Data.
+Common variants at 11p13 are associated with susceptibility to tuberculosis.
+Common variants near MBNL1 and NKX2-5 are associated with infantile hypertrophic pyloric stenosis.
+Genome-wide association study identifies a variant in HDAC9 associated with large vessel ischemic stroke.
+A genome-wide association study for coronary artery disease identifies a novel susceptibility locus in the major histocompatibility complex.
+A genome-wide association study identifies SNP in DCC is associated with gallbladder cancer in the Japanese population.
+Common variants near TARDBP and EGR2 are associated with susceptibility to Ewing sarcoma.
+A common variant near the KCNJ2 gene is associated with T-peak to T-end interval.
+Association of common genetic variants in GPCPD1 with scaling of visual cortical surface area in humans.
+Genome-wide association study of three-dimensional facial morphology identifies a variant in PAX3 associated with nasion position.
+Common variants at CDKAL1 and KLF9 are associated with body mass index in east Asian populations.
+Genome-wide association analysis of juvenile idiopathic arthritis identifies a new susceptibility locus at chromosomal region 3q13.
+Interleukin 28B polymorphisms are the only common genetic variants associated with low-density lipoprotein cholesterol (LDL-C) in genotype-1 chronic hepatitis C and determine the association between LDL-C and treatment response.
+Genome-wide association study in east Asians identifies novel susceptibility loci for breast cancer.
+Genome-wide association study identifies chromosome 10q24.32 variants associated with arsenic metabolism and toxicity phenotypes in Bangladesh.
+Genome-wide association study identifies novel loci associated with serum level of vitamin B12 in Chinese men.
+Genome-wide association study of genetic determinants of LDL-c response to atorvastatin therapy: importance of Lp(a).
+A genome-wide linkage and association scan reveals novel loci for hypertension and blood pressure traits.
+Meta-analysis of Parkinson's disease: identification of a novel locus, RIT2.
+A genome-wide association study identifies two susceptibility loci for duodenal ulcer in the Japanese population.
+A genome-wide association study identifies rs2000999 as a strong genetic determinant of circulating haptoglobin levels.
+Genome-wide screen for metabolic syndrome susceptibility Loci reveals strong lipid gene contribution but no evidence for common genetic basis for clustering of metabolic syndrome traits.
+A genome-wide association study identifies novel susceptibility genetic variation for thyrotoxic hypokalemic periodic paralysis.
+A meta-analysis and genome-wide association study of platelet count and mean platelet volume in african americans.
+Comprehensive research synopsis and systematic meta-analyses in Parkinson's disease genetics: The PDGene database.
+A novel locus for body mass index on 5p15.2: a meta-analysis of two genome-wide association studies.
+Genome-wide association study identifies three common variants associated with serologic response to vitamin E supplementation in men.
+A genome-wide association study in the Japanese population confirms 9p21 and 14q23 as susceptibility loci for primary open angle glaucoma.
+Genome-wide association study of SSRI/SNRI-induced sexual dysfunction in a Japanese cohort with major depression.
+A genome-wide association study identifies three new risk loci for Kawasaki disease.
+Genome-wide association study of treatment refractory schizophrenia in Han Chinese.
+A genome-wide association study identifies a breast cancer risk variant in ERBB4 at 2q34: results from the Seoul Breast Cancer Study.
+A high-density genome-wide association screen of sporadic ALS in US veterans.
+A single-nucleotide polymorphism in ANK1 is associated with susceptibility to type 2 diabetes in Japanese populations.
+A genome-wide association study in progressive multiple sclerosis.
+SSBP2 variants are associated with survival in glioblastoma patients.
+A mega-analysis of genome-wide association studies for major depressive disorder.
+Combined analysis of genome-wide association studies for Crohn disease and psoriasis identifies seven shared susceptibility loci.
+A genome-wide association meta-analysis identifies new childhood  obesity loci.
+A genome-wide association study of female sexual dysfunction.
+Common variants at 12q15 and 12q24 are associated with infant head circumference.
+Identification of common variants associated with human hippocampal and intracranial volumes.
+Common variants at 6q22 and 17q21 are associated with intracranial volume.
+Common variants at 12q14 and 12q24 are associated with hippocampal volume.
+CHRNB3 is more strongly associated with Fagerström test for cigarette dependence-based nicotine dependence than cigarettes per day: phenotype definition changes genome-wide association studies results.
+Identification of a novel percent mammographic density locus at 12q24.
+Genome-wide association study of antibody response to smallpox vaccine.
+A genome-wide association study reveals that variants within the HLA region are associated with risk for nonobstructive azoospermia.
+Genome-wide association identifies the T gene as a novel asthma pharmacogenetic locus.
+Association of common variants in TNFRSF13B, TNFSF13, and ANXA3 with serum levels of non-albumin protein and immunoglobulin isotypes in Japanese.
+A genome-wide association study of total bilirubin and cholelithiasis risk in sickle cell anemia.
+A genome-wide association study identifies susceptibility loci for Wilms tumor.
+Genome-wide association study of the age of onset of childhood asthma.
+Common genetic determinants of intraocular pressure and primary open-angle glaucoma.
+Genome-wide association study of multiple sclerosis confirms a novel locus at 5p13.1.
+Genomic association analysis identifies multiple loci influencing antihypertensive response to an angiotensin II receptor blocker.
+Genome-wide association and functional studies identify the DOT1L gene to be involved in cartilage thickness and hip osteoarthritis.
+Genome-wide association of pericardial fat identifies a unique locus for ectopic fat.
+Genome-wide association for abdominal subcutaneous and visceral adipose reveals a novel locus for visceral fat in women.
+Genome-wide association study of Alzheimer's disease.
+Genome-wide meta-analyses of smoking behaviors in African Americans.
+Common variation near CDKN1A, POLD3 and SHROOM2 influences colorectal cancer risk.
+Genome-wide gene-environment interaction analysis for asbestos exposure in lung cancer susceptibility.
+Genome-wide study of gene variants associated with differential cardiovascular event reduction by pravastatin therapy.
+Genomic determinants of motor and cognitive outcomes in Parkinson's disease.
+PKNOX2 is associated with formal thought disorder in schizophrenia: a meta-analysis of two genome-wide association studies.
+Genome-wide association study of circulating estradiol, testosterone, and sex hormone-binding globulin in postmenopausal women.
+A genome-wide association study of venous thromboembolism identifies risk variants in chromosomes 1q24.2 and 9q.
+A meta-analysis of genome-wide association studies of the electrocardiographic early repolarization pattern.
+Genetic variants on chromosome 1q41 influence ocular axial length and high myopia.
+Genome-wide association study in a Swedish population yields support for greater CNV and MHC involvement in schizophrenia compared with bipolar disorder.
+Common variation at 6p21.31 (BAK1) influences the risk of chronic lymphocytic leukemia.
+Pilot genome-wide association search identifies potential loci for risk of erectile dysfunction in type 1 diabetes using the DCCT/EDIC study cohort.
+Genome-wide association study of age-related macular degeneration identifies associated variants in the TNXB-FKBPL-NOTCH4 region of chromosome 6p21.3.
+Genetic associations for activated partial thromboplastin time and prothrombin time, their gene expression profiles, and risk of coronary artery disease.
+Genetic polymorphisms of the human PNPLA3 gene are strongly associated with severity of non-alcoholic fatty liver disease in Japanese.
+Heritability and genome-wide association study to assess genetic differences between advanced age-related macular degeneration subtypes.
+A common variant in SLC8A1 is associated with the duration of the electrocardiographic QT interval.
+Genome-wide association study in a Lebanese cohort confirms PHACTR1 as a major determinant of coronary artery stenosis.
+A variant in the LRRFIP1 gene is associated with adiposity and inflammation.
+Bivariate genome-wide association study suggests that the DARC gene influences lean body mass and age at menarche.
+Identification of new susceptibility loci for osteoarthritis (arcOGEN): a genome-wide association study.
+Polymorphisms in the glial glutamate transporter SLC1A2 are associated with essential tremor.
+Genome-wide pharmacogenomic study of citalopram-induced side effects in STAR*D.
+WNT16 influences bone mineral density, cortical bone thickness, bone strength, and osteoporotic fracture risk.
+Genome-wide linkage and association scans for pulse pressure in Chinese twins.
+Meta-analysis of genome-wide scans for total body BMD in children and adults reveals allelic heterogeneity and age-specific effects at the WNT16 locus.
+Common variants on chromosome 9p21 are associated with normal tension glaucoma.
+Genome-wide association analysis in asthma subjects identifies SPATS2L as a novel bronchodilator response gene.
+Genome-wide association study identifies common variants at TNFRSF13B associated with IgG level in a healthy Chinese male population.
+Linkage and association of successful aging to the 6q25 region in large Amish kindreds.
+Genome-wide association study of a quantitative disordered gambling trait.
+Genome-wide association study identifies novel loci association with fasting insulin and insulin resistance in African Americans.
+Genetic associations with C-reactive protein level and white blood cell count in the KARE study.
+A genome-wide association study identifies two new susceptibility loci for lung adenocarcinoma in the Japanese population.
+Risk for myasthenia gravis maps to a (151) Pro→Ala change in TNIP1 and to human leukocyte antigen-B*08.
+A genome-wide association meta-analysis of circulating sex hormone-binding globulin reveals multiple Loci implicated in sex steroid hormone regulation.
+Population-based meta-analysis in Caucasians confirms association with COL5A1 and ZNF469 but not COL8A2 with central corneal thickness.
+Genome-wide association analysis in primary sclerosing cholangitis and ulcerative colitis identifies risk loci at GPR35 and TCF4.
+Genome-wide association analysis identifies TYW3/CRYZ and NDST4 loci associated with circulating resistin levels.
+Genome-wide association study identifies variants associated with progression of liver fibrosis from HCV infection.
+A novel sarcoidosis risk locus for Europeans on chromosome 11q13.1.
+Genome-wide association study identifies TNFSF13 as a susceptibility gene for IgA in a South Chinese population in smokers.
+Genome-wide meta-analyses of nonsyndromic cleft lip with or without cleft palate identify six new risk loci.
+Genome-wide association study identifies a susceptibility locus for thyrotoxic periodic paralysis at 17q24.3.
+Genome-wide association study implicates HLA-C*01:02 as a risk factor at the major histocompatibility complex locus in schizophrenia.
+Genome-wide association study of prognosis in advanced non-small cell lung cancer patients receiving platinum-based chemotherapy.
+Genome-wide association study of Tourette's syndrome.
+Genome-wide association study of obsessive-compulsive disorder.
+Influence of common genetic variation on lung cancer risk: meta-analysis of 14 900 cases and 29 485 controls.
+Genome-wide association identifies genetic variants associated with lentiform nucleus volume in N = 1345 young and elderly subjects.
+High density GWAS for LDL cholesterol in African Americans using electronic medical records reveals a strong protective variant in APOE.
+Evaluating genetic risk for prostate cancer among Japanese and Latinos.
+A genome-wide association study of seasonal pattern mania identifies NF1A as a possible susceptibility gene for bipolar disorder.
+A genome-wide association study of breast cancer in women of African ancestry.
+Genome-wide association analyses identify three new susceptibility loci for primary angle closure glaucoma.
+Genome-wide association study of d-amphetamine response in healthy volunteers identifies putative associations, including cadherin 13 (CDH13).
+Genome-wide association study identifies a new locus JMJD1C at 10q21 that may influence serum androgen levels in men.
+A genome-wide association study on a southern European population identifies a new Crohn's disease susceptibility locus at RBX1-EP300.
+Genome-wide association analysis reveals 12q13.3-q14.1 as new risk locus for sarcoidosis.
+Bivariate genome-wide association study suggests fatty acid desaturase genes and cadherin DCHS2 for variation of both compressive strength index and appendicular lean mass in males.
+Genome-wide association and linkage study in the Amish detects a novel candidate late-onset Alzheimer disease gene.
+Common variation at 6q16 within HACE1 and LIN28B influences susceptibility to neuroblastoma.
+Common variants at 6p21.1 are associated with large artery atherosclerotic stroke.
+Genome-wide association analysis of genetic generalized epilepsies implicates susceptibility loci at 1q43, 2p16.1, 2q22.3 and 17q21.32.
+Age of onset of amyotrophic lateral sclerosis is modulated by a locus on 1p34.1.
+A genome-wide association study identifies GRK5 and RASGRP1 as type 2 diabetes loci in Chinese Hans.
+Association analyses identify three susceptibility Loci for vitiligo in the Chinese Han population.
+Genome-wide association study meta-analysis of chronic widespread pain: evidence for involvement of the 5p15.2 region.
+Genome-wide association study of intracranial aneurysms confirms role of Anril and SOX17 in disease risk.
+A genome-wide association study identifies a genetic variant in the SIAH2 locus associated with hormonal receptor-positive breast cancer in Japanese.
+Limited contribution of common genetic variants to risk for liver injury due to a variety of drugs.
+Common variants at the MHC locus and at chromosome 16q24.1 predispose to Barrett's esophagus.
+A meta-analysis of genome-wide association studies of breast cancer identifies two novel susceptibility loci at 6q14 and 20q11.
+Genetic variants near PDGFRA are associated with corneal curvature in Australians.
+Genome-wide association study for serum complement C3 and C4 levels in healthy Chinese subjects.
+Functional variants in NFKBIE and RTKN2 involved in activation of the NF-κB pathway are associated with rheumatoid arthritis in Japanese.
+Genome-wide association study identifies TNFSF15 and POU2AF1 as susceptibility loci for primary biliary cirrhosis in the Japanese population.
+Genome-wide association study for circulating levels of PAI-1 provides novel insights into its regulation.
+New susceptibility loci associated with kidney disease in type 1 diabetes.
+Clinical and genetic correlates of growth differentiation factor 15 in the community.
+Genome-wide association replicates the association of Duffy antigen receptor for chemokines (DARC) polymorphisms with serum monocyte chemoattractant protein-1 (MCP-1) levels in Hispanic children.
+Genome-wide association study identifies germline polymorphisms associated with relapse of childhood acute lymphoblastic leukemia.
+Haplotypes with copy number and single nucleotide polymorphisms in CYP2A6 locus are associated with smoking quantity in a Japanese population.
+Genome-wide meta-analysis points to CTC1 and ZNF676 as genes regulating telomere homeostasis in humans.
+Genome-wide association studies of asthma in population-based cohorts confirm known and suggested loci and identify an additional association near HLA.
+Genome-wide association study in Chinese men identifies two new prostate cancer risk loci at 9q31.2 and 19q13.4.
+A genome-wide association study of monozygotic twin-pairs suggests a locus related to variability of serum high-density lipoprotein cholesterol.
+Genome-wide pathway analysis of genome-wide association studies on systemic lupus erythematosus and rheumatoid arthritis.
+A genome-wide association study of circulating galectin-3.
+A genome-wide association study provides evidence for association of chromosome 8p23 (MYP10) and 10q21.1 (MYP15) with high myopia in the French Population.
+A meta-analysis of genome-wide association studies to identify prostate cancer susceptibility loci associated with aggressive and non-aggressive disease.
+Genome-wide association of mood-incongruent psychotic bipolar disorder.
+Genetic variants at 6p21.1 and 7p15.3 are associated with risk of multiple cancers in Han Chinese.
+Genome-wide association meta-analysis identifies new endometriosis risk loci.
+A study based on whole-genome sequencing yields a rare variant at 8q24 associated with prostate cancer.
+Suggestion of GLYAT gene underlying variation of bone size and body lean mass as revealed by a bivariate genome-wide association study.
+Genome-wide scan identifies variant in TNFSF13 associated with serum IgM in a healthy Chinese male population.
+Combined linkage and association analyses identify a novel locus for obesity near PROX1 in Asians.
+Prognostic implications of genetic variants in advanced non-small cell lung cancer: a genome-wide association study.
+A meta-analysis of genome-wide association studies for serum total IgE in diverse study populations.
+Genome-wide association analysis identifies new lung cancer susceptibility loci in never-smoking women in Asia.
+Variant of TREM2 associated with the risk of Alzheimer's disease.
+Impact of four loci on serum tamsulosin hydrochloride concentration.
+A genome-wide association study identifies susceptibility loci for nonsyndromic sagittal craniosynostosis near BMP2 and within BBS9.
+Impact of ancestry and common genetic variants on QT interval in African Americans.
+Genome-wide association study of aspirin-exacerbated respiratory disease in a Korean population.
+Common genetic variation near the connexin-43 gene is associated with resting heart rate in African Americans: a genome-wide association study of 13,372 participants.
+Genome-wide association study of survival in patients with pancreatic adenocarcinoma.
+Common variation at 2q22.3 (ZEB2) influences the risk of renal cancer.
+Gene-environment interactions and obesity traits among postmenopausal African-American and Hispanic women in the Women's Health Initiative SHARe Study.
+Genome-wide association study identified UQCC locus for spine bone size in humans.
+Novel genetic loci identified for the pathophysiology of childhood obesity in the Hispanic population.
+A genome-wide association study implicates the APOE locus in nonpathological cognitive ageing.
+HLA-DQ strikes again: genome-wide association study further confirms HLA-DQ in the diagnosis of asthma among adults.
+Identification of a susceptibility locus in STAT4 for Behçet's disease in Han Chinese in a genome-wide association study.
+A genome-wide association study in Caucasian women points out a putative role of the STXBP5L gene in facial photoaging.
+Genome-wide significant association signals in IPO11-HTR1A region specific for alcohol and nicotine codependence.
+Genome-wide study of methotrexate clearance replicates SLCO1B1.
+Genetic variants in STAT4 and HLA-DQ genes confer risk of hepatitis B virus-related hepatocellular carcinoma.
+Association of genome-wide variation with highly sensitive cardiac troponin-T levels in European Americans and Blacks: a meta-analysis from atherosclerosis risk in communities and cardiovascular health studies.
+Genome-wide association study pinpoints a new functional apolipoprotein B variant influencing oxidized low-density lipoprotein levels but not cardiovascular events: AtheroRemo Consortium.
+Identification of Genetic Susceptibility Loci for Colorectal Tumors in a Genome-Wide Meta-analysis.
+A genome-wide association study identifies 2 susceptibility Loci for Crohn's disease in a Japanese population.
+Genetic association suggests that SMOC1 mediates between prenatal sex hormones and digit ratio.
+Genome-wide association analyses in East Asians identify new susceptibility loci for colorectal cancer.
+Genome-wide search for gene-gene interactions in colorectal cancer.
+Genome-wide association study identifies loci at ATF7IP and KLK2 associated with percentage of circulating free PSA.
+Ischemic stroke is associated with the ABO locus: the EuroCLOT study.
+A genome-wide association study of depressive symptoms.
+A genome wide association study of plasma uric acid levels in obese cases and never-overweight controls.
+A genome-wide association study for corneal curvature identifies the platelet-derived growth factor receptor α gene as a quantitative trait locus for eye size in white Europeans.
+Common variants in the HLA-DRB1-HLA-DQA1 HLA class II region are associated with susceptibility to visceral leishmaniasis.
+Genome-wide association analyses identify multiple loci associated with central corneal thickness and keratoconus.
+A genome-wide integrative genomic study localizes genetic factors influencing antibodies against Epstein-Barr virus nuclear antigen 1 (EBNA-1).
+Genome-wide association study of serum albumin:globulin ratio in Korean populations.
+Insights into the genetic architecture of early stage age-related macular degeneration: a genome-wide association study meta-analysis.
+A genome-wide association study of HCV-induced liver cirrhosis in the Japanese population identifies novel susceptibility loci at the MHC region.
+Identification of a candidate gene for astigmatism.
+Genome-wide significant locus of beta-trace protein, a novel kidney function biomarker, identified in European and African Americans.
+Susceptibility loci associated with specific and shared subtypes of lymphoid malignancies.
+Genome-wide association study identifies a novel susceptibility locus at 12q23.1 for lung squamous cell carcinoma in han chinese.
+Meta-analysis identifies a MECOM gene as a novel predisposing factor of osteoporotic fracture.
+A colorectal cancer genome-wide association study in a Spanish cohort identifies two variants associated with colorectal cancer risk at 1p33 and 8p12.
+Genome-wide study of association and interaction with maternal cytomegalovirus infection suggests new schizophrenia loci.
+Pharmacogenomics in Alzheimer's disease: a genome-wide association study of response to cholinesterase inhibitors.
+BCL9 and C9orf5 are associated with negative symptoms in schizophrenia: meta-analysis of two genome-wide association studies.
+Novel locus including FGF21 is associated with dietary macronutrient intake.
+Common variants at 12q24 are associated with drinking behavior in Han Chinese.
+A genome-wide association study of a coronary artery disease risk variant.
+A genome-wide association study for serum bilirubin levels and gene-environment interaction in a Chinese population.
+A 2-stage genome-wide association study to identify single nucleotide polymorphisms associated with development of urinary symptoms after radiotherapy for prostate cancer.
+Genome-wide association study on plasma levels of midregional-proadrenomedullin and C-terminal-pro-endothelin-1.
+Genome-wide association study of retinopathy in individuals without diabetes.
+Genetic determinants of haemolysis in sickle cell anaemia.
+Genome-wide association study identified the human leukocyte antigen region as a novel locus for plasma beta-2 microglobulin.
+Genetic associations with valvular calcification and aortic stenosis.
+APOE and BCHE as modulators of cerebral amyloid deposition: a florbetapir PET genome-wide association study.
+A common variant in myosin-18B contributes to mathematical abilities in children with dyslexia and intraparietal sulcus variability in adults.
+Genome-wide association study of spontaneous resolution of hepatitis C virus infection: data from multiple cohorts.
+A genome-wide association study of recipient genotype and medium-term kidney allograft function.
+Genome-wide association analysis of red blood cell traits in African Americans: the COGENT Network.
+A genome-wide meta-analysis identifies two novel loci associated with high myopia in the Han Chinese population.
+Extended genetic effects of ADH cluster genes on the risk of alcohol dependence: from GWAS to replication.
+A variant in FTO shows association with melanoma risk not due to BMI.
+Genome-wide association study in Han Chinese identifies three novel loci for human height.
+Exploring the genetic basis of chronic periodontitis: a genome-wide association study.
+Genome- and phenome-wide analyses of cardiac conduction identifies markers of arrhythmia risk.
+Oligoclonal band status in Scandinavian multiple sclerosis patients is associated with specific genetic risk alleles.
+Genome-wide association study link novel loci to endometriosis.
+Genetic determinants of dabigatran plasma levels and their relation to bleeding.
+Meta-analysis of genome-wide association studies in five cohorts reveals common variants in RBFOX1, a regulator of tissue-specific splicing, associated with refractive error.
+Genome-wide association study of susceptibility loci for cervical cancer.
+Genome-wide association study of coronary and aortic calcification implicates risk loci for coronary artery disease and myocardial infarction.
+Genomic study in Mexicans identifies a new locus for triglycerides and refines European lipid loci.
+Aspirin hydrolysis in plasma is a variable function of butyrylcholinesterase and platelet-activating factor acetylhydrolase 1b2 (PAFAH1b2).
+Clinical, polysomnographic and genome-wide association analyses of narcolepsy with cataplexy: a European Narcolepsy Network study.
+A genome-wide association study of bronchodilator response in asthmatics.
+Novel susceptibility variants at 10p12.31-12.2 for childhood acute lymphoblastic leukemia in ethnically diverse populations.
+TSPYL5 SNPs: association with plasma estradiol concentrations and aromatase expression.
+Genome-wide association study of the rate of cognitive decline in Alzheimer's disease.
+Genome-wide association study in a Chinese population identifies a susceptibility locus for type 2 diabetes at 7q32 near PAX4.
+Genome-wide association study in BRCA1 mutation carriers identifies novel loci associated with breast and ovarian cancer risk.
+Identification of a BRCA2-specific modifier locus at 6p24 related to breast cancer risk.
+Genome-wide scan revealed that polymorphisms in the PNPLA3, SAMM50, and PARVB genes are associated with development and progression of nonalcoholic fatty liver disease in Japan.
+Genome-wide association study and gene expression analysis identifies CD84 as a predictor of response to etanercept therapy in rheumatoid arthritis.
+Genome-wide association studies identify several new loci associated with pigmentation traits and skin cancer risk in European Americans.
+Genome-wide association study of ulcerative colitis in Koreans suggests extensive overlapping of genetic susceptibility with Caucasians.
+GWAS meta-analysis and replication identifies three new susceptibility loci for ovarian cancer.
+Genome-wide association study identifies genetic determinants of urine PCA3 levels in men.
+Genome-wide association study of body mass index in 23 000 individuals with and without asthma.
+Genome-wide association study of inattention and hyperactivity-impulsivity measured as quantitative traits.
+SORL1 is genetically associated with late-onset Alzheimer's disease in Japanese, Koreans and Caucasians.
+Meta-analysis of genome-wide studies identifies MEF2C SNPs associated with bone mineral density at forearm.
+Variants in the ATP-binding cassette transporter (ABCA7), apolipoprotein E ϵ4,and the risk of late-onset Alzheimer disease in African Americans.
+Genome-wide association study identifies genetic risk underlying primary rhegmatogenous retinal detachment.
+A meta-analysis identifies new loci associated with body mass index in individuals of African ancestry.
+Genome-wide association study of HLA-DQB1*06:02 negative essential hypersomnia.
+Genome-wide association study of age at menarche in African-American women.
+Genetic variants associated with idiopathic pulmonary fibrosis susceptibility and mortality: a genome-wide association study.
+Genome-wide association study in a Chinese population with diabetic retinopathy.
+Association of SNPs in the UGT1A gene cluster with total bilirubin and mortality in the Diabetes Heart Study.
+Genome-wide and gene-centric analyses of circulating myeloperoxidase levels in the charge and care consortia.
+Genome-wide association analyses in Han Chinese identify two new susceptibility loci for amyotrophic lateral sclerosis.
+Genome-wide scan of job-related exhaustion with three replication studies implicate a susceptibility variant at the UST gene locus.
+Genome-wide meta-analysis of observational studies shows common genetic variants associated with macronutrient intake.
+Genetic factors in nonsmokers with age-related macular degeneration revealed through genome-wide gene-environment interaction analysis.
+Genome-wide association study identifies common variants in SLC39A6 associated with length of survival in esophageal squamous-cell carcinoma.
+A genome-wide association study for venous thromboembolism: the extended cohorts for heart and aging research in genomic epidemiology (CHARGE) consortium.
+Genome wide association study of age at menarche in the Japanese population.
+Identification of genetic loci associated with Helicobacter pylori serologic status.
+Genetic variants in GPR126 are associated with adolescent idiopathic scoliosis.
+Meta-analysis identifies four new loci associated with testicular germ cell tumor.
+Identification of KCNN2 as a susceptibility locus for coronary artery aneurysms in Kawasaki disease using genome-wide association analysis.
+Genetic variants that confer resistance to malaria are associated with red blood cell traits in African-Americans: an electronic medical record-based genome-wide association study.
+Genome-wide association study of serum selenium concentrations.
+Genome-wide association study of primary tooth eruption identifies pleiotropic loci associated with height and craniofacial distances.
+Genome-wide association study of degenerative bony changes of the temporomandibular joint.
+Genome-wide association study identifies a region on chromosome 11q14.3 associated with late rectal bleeding following radiation therapy for prostate cancer.
+Genome-wide association study identifies new susceptibility loci for posttraumatic stress disorder.
+Genome-wide association study identifies loci affecting blood copper, selenium and zinc.
+A genome-wide association study of a sustained pattern of antidepressant response.
+Genetic variants associated with warfarin dose in African-American individuals: a genome-wide association study.
+Interrogation of the platelet-derived growth factor receptor alpha locus and corneal astigmatism in Australians of Northern European ancestry: results of a genome-wide association study.
+A meta-analysis of two genome-wide association studies to identify novel loci for maximum number of alcoholic drinks.
+A genome-wide association study identified new variants associated with the risk of chronic hepatitis B.
+Genomic association analysis of common variants influencing antihypertensive response to hydrochlorothiazide.
+Genetic loci for retinal arteriolar microcirculation.
+Association of genetic markers with CSF oligoclonal bands in multiple sclerosis patients.
+Genome-wide association study identifies ephrin type A receptors implicated in paclitaxel induced peripheral sensory neuropathy.
+A genome-wide association study identifies two new cervical cancer susceptibility loci at 4q12 and 17q12.
+A genome-wide association meta-analysis of self-reported allergy identifies shared and allergy-specific susceptibility loci.
+Are C-reactive protein associated genetic variants associated with serum levels and retinal markers of microvascular pathology in Asian populations from Singapore?
+Identification of multiple genetic susceptibility loci in Takayasu arteritis.
+Genome-wide association study of intraocular pressure identifies the GLCCI1/ICA1 region as a glaucoma susceptibility locus.
+Genome-wide association study of Crohn's disease in Koreans revealed three new susceptibility loci and common attributes of genetic susceptibility across ethnic populations.
+Genetics of coronary artery calcification among African Americans, a meta-analysis.
+Common variants at SCN5A-SCN10A and HEY2 are associated with Brugada syndrome, a rare disease with high risk of sudden cardiac death.
+Genome-wide association study on differentiated thyroid cancer.
+Genome wide association analysis of a founder population identified TAF3 as a gene for MCHC in humans.
+Genome-wide association study identifies ZFHX1B as a susceptibility locus for severe myopia.
+Genome-wide association study of a heart failure related metabolomic profile among African Americans in the Atherosclerosis Risk in Communities (ARIC) study.
+A genome-wide association study of total serum and mite-specific IgEs in asthma patients.
+A genome-wide search for type 2 diabetes susceptibility genes in an extended Arab family.
+Genome-wide association study identifies three novel loci for type 2 diabetes.
+A genome-wide association study of behavioral disinhibition.
+Genome-wide association of body fat distribution in African ancestry populations suggests new loci.
+Common variation at 3q26.2, 6p21.33, 17p11.2 and 22q13.1 influences multiple myeloma risk.
+A genome-wide association study and biological pathway analysis of epilepsy prognosis in a prospective cohort of newly treated epilepsy.
+Genome-wide association study of cocaine dependence and related traits: FAM53B identified as a risk gene.
+GWAS of human bitter taste perception identifies new loci and reveals additional complexity of bitter taste genetics.
+Plasma lipids, genetic variants near APOA1, and the risk of infantile hypertrophic pyloric stenosis.
+A genome-wide association study of chronic otitis media with effusion and recurrent otitis media identifies a novel susceptibility locus on chromosome 2.
+Genome-wide association study of dermatomyositis reveals genetic overlap with other autoimmune disorders.
+Association between a genetic variant related to glutamic acid metabolism and coronary heart disease in individuals with type 2 diabetes.
+ITGB5 and AGFG1 variants are associated with severity of airway responsiveness.
+A meta-analysis of genome-wide association studies identifies novel variants associated with osteoarthritis of the hip.
+Variation at 10p12.2 and 10p14 influences risk of childhood B-cell acute lymphoblastic leukemia and phenotype.
+Association of granulomatosis with polyangiitis (Wegener's) with HLA-DPB1*04 and SEMA6A gene variants: evidence from genome-wide analysis.
+Genome-wide association study meta-analysis reveals transethnic replication of mean arterial and pulse pressure loci.
+Genome-wide association study and meta-analysis of intraocular pressure.
+Identification of a susceptibility locus for severe adolescent idiopathic scoliosis on chromosome 17q24.3.
+Epilepsy, hippocampal sclerosis and febrile seizures linked by common genetic variation around SCN1A.
+A genome-wide association study of chemotherapy-induced alopecia in breast cancer patients.
+Common variants in left/right asymmetry genes and pathways are associated with relative hand skill.
+Chromosome 2q31.1 associates with ESRD in women with type 1 diabetes.
+Genome-wide meta-analysis of systolic blood pressure in children with sickle cell disease.
+Common variants on Xq28 conferring risk of schizophrenia in Han Chinese.
+A variant in LDLR is associated with abdominal aortic aneurysm.
+Genome-wide association study of sex hormones, gonadotropins and sex hormone-binding protein in Chinese men.
+Genome-wide association study of ancestry-specific TB risk in the South African Coloured population.
+Common variation contributes to the genetic architecture of social communication traits.
+Genome-wide association study identifies 3 genomic loci significantly associated with serum levels of homoarginine: the AtheroRemo Consortium.
+Meta-analysis of genome-wide association studies identifies six new Loci for serum calcium concentrations.
+Genome-wide association study of orthostatic hypotension and supine-standing blood pressure changes in two korean populations.
+Genome-wide association study of atypical psychosis.
+A genome-wide association study in Han Chinese identifies a susceptibility locus for primary Sjögren's syndrome at 7q11.23.
+Meta-analysis of genome-wide association data identifies novel susceptibility loci for obesity.
+Genome-wide association study of autistic-like traits in a general population study of young adults.
+A genome-wide association study identifies new susceptibility loci for esophageal adenocarcinoma and Barrett's esophagus.
+Genome-wide association study of breast cancer in the Japanese population.
+Genome-wide association study of opioid dependence: multiple associations mapped to calcium and potassium pathways.
+Variation at 3p24.1 and 6q23.3 influences the risk of Hodgkin's lymphoma.
+Variants in the 1q21 risk region are associated with a visual endophenotype of autism and schizophrenia.
+Genome-wide association study identifies multiple loci associated with bladder cancer risk.
+Genome-wide association study on dimethylarginines reveals novel AGXT2 variants associated with heart rate variability but not with overall mortality.
+New loci associated with chronic hepatitis B virus infection in Han Chinese.
+Novel gene variants predict serum levels of the cytokines IL-18 and IL-1ra in older adults.
+Genome wide analysis of narcolepsy in China implicates novel immune loci and reveals changes in association prior to versus after the 2009 H1N1 influenza pandemic.
+A genome-wide association study of third molar agenesis in Japanese and Korean populations.
+Common genetic variants on 1p13.2 associate with risk of autism.
+Genome wide analysis of drug-induced torsades de pointes: lack of common variants with large effect sizes.
+A common variant at 8q24.21 is associated with renal cell cancer.
+Multistage genome-wide association meta-analyses identified two new loci for bone mineral density.
+Genome-wide association study implicates NDST3 in schizophrenia and bipolar disorder.
+A genome-wide association meta-analysis identifies a novel locus at 17q11.2 associated with sporadic amyotrophic lateral sclerosis.
+Inhaled corticosteroid treatment modulates ZNF432 gene variant's effect on bronchodilator response in asthmatics.
+ALDH2 is associated to alcohol dependence and is the major genetic determinant of "daily maximum drinks" in a GWAS study of an isolated rural Chinese sample.
+A genome-wide association study identifies polymorphisms in the HLA-DR region associated with non-response to hepatitis B vaccination in Chinese Han populations.
+A genome-wide association study reveals ARL15, a novel non-HLA susceptibility gene for rheumatoid arthritis in North Indians.
+A genome-wide association study identifies multiple susceptibility loci for chronic lymphocytic leukemia.
+Genome-wide association study for levels of total serum IgE identifies HLA-C in a Japanese population.
+Genome-wide association study identifies common loci influencing circulating glycated hemoglobin (HbA1c) levels in non-diabetic subjects: the Long Life Family Study (LLFS).
+Fraction of exhaled nitric oxide values in childhood are associated with 17q11.2-q12 and 17q12-q21 variants.
+A genome-wide gene-gene interaction analysis identifies an epistatic gene pair for lung cancer susceptibility in Han Chinese.
+Genome-wide association study of bipolar disorder accounting for effect of body mass index identifies a new risk allele in TCF7L2.
+Gene-alcohol interactions identify several novel blood pressure loci including a promising locus near SLC16A9.
+Genome-wide association analysis confirms and extends the association of SLC2A9 with serum uric acid levels to Mexican Americans.
+An integrative study of the genetic, social and environmental determinants of chronic kidney disease characterized by tubulointerstitial damages in the North Central Region of Sri Lanka.
+A meta-analysis of genome-wide association studies identifies ORM1 as a novel gene controlling thrombin generation potential.
+How genome-wide SNP-SNP interactions relate to nasopharyngeal carcinoma susceptibility.
+Genetic susceptibility to accelerated cognitive decline in the US Health and Retirement Study.
+Genome-wide association study in musician's dystonia: a risk variant at the arylsulfatase G locus?
+Genome-wide association analysis identifies 11 risk variants associated with the asthma with hay fever phenotype.
+Genome-wide association study of alcohol dependence:significant findings in African- and European-Americans including novel risk loci.
+Genome-wide study of percent emphysema on computed tomography in the general population. The Multi-Ethnic Study of Atherosclerosis Lung/SNP Health Association Resource Study.
+Germline sequence variants in TGM3 and RGS22 confer risk of basal cell carcinoma.
+Genetic determinants of heel bone properties: genome-wide association meta-analysis and replication in the GEFOS/GENOMOS consortium.
+Genome wide association and linkage analyses identified three loci-4q25, 17q23.2, and 10q11.21-associated with variation in leukocyte telomere length: the Long Life Family Study.
+Familial young-onset diabetes, pre-diabetes and cardiovascular disease are associated with genetic variants of DACH1 in Chinese.
+Genome-wide association study identifies a new SMAD7 risk variant associated with colorectal cancer risk in East Asians.
+A genome-wide association study identifies a locus on TERT for mean telomere length in Han Chinese.
+Genetic predictors associated with improvement of asthma symptoms in response to inhaled corticosteroids.
+A genome-wide association study of early-onset breast cancer identifies PFKM as a novel breast cancer gene and supports a common genetic spectrum for breast cancer at any age.
+Evidence of gene-environment interaction for two genes on chromosome 4 and environmental tobacco smoke in controlling the risk of nonsyndromic cleft palate.
+Identification of a novel Parkinson's disease locus via stratified genome-wide association study.
+A genome-wide association study of intra-ocular pressure suggests a novel association in the gene FAM125B in the TwinsUK cohort.
+A genome-wide association study identifies common variants influencing serum uric acid concentrations in a Chinese population.
+A genome-wide association study of anorexia nervosa.
+Genome-wide association study of peripheral neuropathy with D-drug-containing regimens in AIDS Clinical Trials Group protocol 384.
+Genome-wide association study of metabolic traits reveals novel gene-metabolite-disease links.
+Variability in the common genetic architecture of social-communication spectrum phenotypes during childhood and adolescence.
+Identification of novel genetic Loci associated with thyroid peroxidase antibodies and clinical thyroid disease.
+Genome-wide association study for circulating tissue plasminogen activator levels and functional follow-up implicates endothelial STXBP5 and STX2.
+Common quantitative trait locus downstream of RETN gene identified by genome-wide association study is associated with risk of type 2 diabetes mellitus in Han Chinese: a Mendelian randomization effect.
+Genome-wide association study of urinary albumin excretion rate in patients with type 1 diabetes.
+ABCC5, a gene that influences the anterior chamber depth, is associated with primary angle closure glaucoma.
+Heritability and genetic association analysis of cognition in the Diabetes Heart Study.
+Meta-analysis of genome-wide association studies identifies 1q22 as a susceptibility locus for intracerebral hemorrhage.
+Genome-wide meta-analysis of homocysteine and methionine metabolism identifies five one carbon metabolism loci and a novel association of ALDH1L1 with ischemic stroke.
+A genome-wide association study of clinical symptoms of dissociation in a trauma-exposed sample.
+Genome-wide association meta-analysis of human longevity identifies a novel locus conferring survival beyond 90 years of age.
+Polymorphism of the cystatin C gene in patients with acute coronary syndromes: Results from the PLATelet inhibition and patient Outcomes study.
+Susceptibility to chronic mucus hypersecretion, a genome wide association study.
+Genetic effects on information processing speed are moderated by age--converging results from three samples.
+Severe osteoarthritis of the hand associates with common variants within the ALDH1A2 gene and with rare variants at 1p31.
+Genetic variations associated with postoperative recurrence in stage I non-small cell lung cancer.
+Identification of susceptibility loci for colorectal cancer in a genome-wide meta-analysis.
+A genome-wide association study on thyroid function and anti-thyroid peroxidase antibodies in Koreans.
+Genome-wide diet-gene interaction analyses for risk of colorectal cancer.
+Genome-wide association study identifies variants associated with autoimmune hepatitis type 1.
+New variants including ARG1 polymorphisms associated with C-reactive protein levels identified by genome-wide association and pathway analysis.
+ABCC9 gene polymorphism is associated with hippocampal sclerosis of aging pathology.
+Novel risk loci for rheumatoid arthritis in Han Chinese and congruence with risk variants in Europeans.
+Genome-wide association study identifies variants in casein kinase II (CSNK2A2) to be associated with leukocyte telomere length in a Punjabi Sikh diabetic cohort.
+Genome-wide association study of maternal and inherited loci for conotruncal heart defects.
+Genome wide association study of SNP-, gene-, and pathway-based approaches to identify genes influencing susceptibility to Staphylococcus aureus infections.
+Genome-wide association study of plasma N6 polyunsaturated fatty acids within the cohorts for heart and aging research in genomic epidemiology consortium.
+Common genetic variants associated with resting oxygenation in chronic obstructive pulmonary disease.
+Genome-wide association scan in north Indians reveals three novel HLA-independent risk loci for ulcerative colitis.
+Genome-wide association study identifies a novel susceptibility gene for serum TSH levels in Chinese populations.
+Meta-analysis of genome-wide association studies in East Asian-ancestry populations identifies four new loci for body mass index.
+Genome-wide association study yields variants at 20p12.2 that associate with urinary bladder cancer.
+Genome-wide association study supports the role of the immunological system and of the neurodevelopmental processes in response to haloperidol treatment.
+Rare variants of large effect in BRCA2 and CHEK2 affect risk of lung cancer.
+TAOK3, a novel genome-wide association study locus associated with morphine requirement and postoperative pain in a retrospective pediatric day surgery population.
+Variants near TERT and TERC influencing telomere length are associated with high-grade glioma risk.
+A genome-wide association study of serum levels of prostate-specific antigen in the Japanese population.
+A genome-wide association study identifies PLCL2 and AP3D1-DOT1L-SF3A2 as new susceptibility loci for myocardial infarction in Japanese.
+Genome-wide survival analysis of age at onset of alcohol dependence in extended high-risk COGA families.
+Lupus nephritis susceptibility loci in women with systemic lupus erythematosus.
+A meta-analysis of Hodgkin lymphoma reveals 19p13.3 TCF3 as a novel susceptibility locus.
+Genome-wide association study identifies three novel susceptibility loci for severe Acne vulgaris.
+Novel genetic variants modify the effect of smoking on carotid plaque burden in Hispanics.
+A genome-wide association study on chronic HBV infection and its clinical progression in male Han-Taiwanese.
+Phenotypic dissection of bone mineral density reveals skeletal site specificity and facilitates the identification of novel loci in the genetic regulation of bone mass attainment.
+Variants close to NTRK2 gene are associated with birth weight in female twins.
+Meta-analysis of genome-wide association studies in multiethnic Asians identifies two loci for age-related nuclear cataract.
+A genome-wide association study identifies a functional ERAP2 haplotype associated with birdshot chorioretinopathy.
+CMPK1 and RBP3 are associated with corneal curvature in Asian populations.
+The ATXN2-SH2B3 locus is associated with peripheral arterial disease: an electronic medical record-based genome-wide association study.
+A genome-wide association study suggests an association of Chr8p21.3 (GFRA2) with diabetic neuropathic pain.
+Frontotemporal dementia and its subtypes: a genome-wide association study.
+A genome-wide association study identifies susceptibility loci of silica-related pneumoconiosis in Han Chinese.
+Common genes underlying asthma and COPD? Genome-wide analysis on the Dutch hypothesis.
+Genome wide association scan for chronic periodontitis implicates novel locus.
+Genome-wide association identifies regulatory Loci associated with distinct local histogram emphysema patterns.
+A novel colorectal cancer risk locus at 4q32.2 identified from an international genome-wide association study.
+SUCLG2 identified as both a determinator of CSF Aβ1-42 levels and an attenuator of cognitive decline in Alzheimer's disease.
+Genome-wide association study of hepatitis C virus- and cryoglobulin-related vasculitis.
+Genome-wide association analysis in East Asians identifies breast cancer susceptibility loci at 1q32.1, 5q14.3 and 15q26.1.
+Genome-wide association study of height-adjusted BMI in childhood identifies functional variant in ADCY3.
+Genome-wide association study of electrocardiographic parameters identifies a new association for PR interval and confirms previously reported associations.
+Meta-analysis identifies loci affecting levels of the potential osteoarthritis biomarkers sCOMP and uCTX-II with genome wide significance.
+A genome-wide association study identifies susceptibility loci for ossification of the posterior longitudinal ligament of the spine.
+A genome-wide association study identifies a novel locus at 6q22.1 associated with ulcerative colitis.
+Citalopram and escitalopram plasma drug and metabolite concentrations: genome-wide associations.
+Intrinsic and extrinsic risk factors for sagging eyelids.
+Genome-wide association study identifies multiple susceptibility loci for pancreatic cancer.
+Genetic Associations with Plasma B12, B6, and Folate Levels in an Ischemic Stroke Population from the Vitamin Intervention for Stroke Prevention (VISP) Trial.
+Trans-ethnic genome-wide association study of colorectal cancer identifies a new susceptibility locus in VTI1A.
+Genome-wide association analysis of Vogt-Koyanagi-Harada syndrome identifies two new susceptibility loci at 1p31.2 and 10q21.3.
+Genetic variant predicts bevacizumab-induced hypertension in ECOG-5103 and ECOG-2100.
+Immunochip identifies novel, and replicates known, genetic risk loci for rheumatoid arthritis in black South Africans.
+Joint analysis of three genome-wide association studies of esophageal squamous cell carcinoma in Chinese populations.
+Genome-wide association study of maternal and inherited effects on left-sided cardiac malformations.
+Genome-wide association study identifies new susceptibility loci for epithelial ovarian cancer in Han Chinese women.
+Genome-wide association study of survival in early-stage non-small cell lung cancer.
+Genome-wide association study identifies variants in PMS1 associated with serum ferritin in a Chinese population.
+A genome-wide search for quantitative trait loci affecting the cortical surface area and thickness of Heschl's gyrus.
+Common variants near ABCA1 and in PMM2 are associated with primary open-angle glaucoma.
+Common variants near ABCA1, AFAP1 and GMDS confer risk of primary open-angle glaucoma.
+Genome-wide analysis of multi-ancestry cohorts identifies new loci influencing intraocular pressure and susceptibility to glaucoma.
+Beyond cigarettes per day. A genome-wide association study of the biomarker carbon monoxide.
+Association between antinuclear antibodies and the HLA class II locus and heterogeneous characteristics of staining patterns: the Nagahama study.
+Gene-smoking interactions identify several novel blood pressure loci in the Framingham Heart Study.
+Genome-wide association study identifies three susceptibility loci for laryngeal squamous cell carcinoma in the Chinese population.
+Genetic dissection of acute anterior uveitis reveals similarities and differences in associations observed with ankylosing spondylitis.
+Genome-wide association study of vitamin D levels in children: replication in the Western Australian Pregnancy Cohort (Raine) study.
+CKM and LILRB5 are associated with serum levels of creatine kinase.
+A genetic locus in 7p12.2 associated with treatment resistant schizophrenia.
+HLA-DQA1-HLA-DRB1 variants confer susceptibility to pancreatitis induced by thiopurine immunosuppressants.
+Genome-wide interrogation of longitudinal FEV1 in children with asthma.
+Common variation near ROBO2 is associated with expressive vocabulary in infancy.
+Dissecting the genetics of chronic mucus hypersecretion in smokers with and without COPD.
+Genetic susceptibility for chronic bronchitis in chronic obstructive pulmonary disease.
+Genome-wide analysis of hepatic lipid content in extreme obesity.
+Genome-wide association study of intracranial aneurysm identifies a new association on chromosome 7.
+Genome-wide association study identifies ITPR2 as a susceptibility gene for Kashin-Beck disease in Han Chinese.
+Genome-wide exploration identifies sex-specific genetic effects of alleles upstream NPY to increase the risk of severe periodontitis in men.
+Genome-wide association study identifies multiple susceptibility loci for diffuse large B cell lymphoma.
+Common variants in the CRP promoter are associated with a high C-reactive protein level in Kawasaki disease.
+Genome-wide association study of medication adherence in chronic diseases in the korean population.
+Gene by stress genome-wide interaction analysis and path analysis identify EBF1 as a cardiovascular and metabolic risk gene.
+Ancestry and other genetic associations with plasma PCSK9 response to simvastatin.
+Genome-wide association study identifies five susceptibility loci for follicular lymphoma outside the HLA region.
+A novel common variant in DCST2 is associated with length in early life and height in adulthood.
+Genome-wide association study identified SNP on 15q24 associated with bladder cancer risk in Japanese population.
+The contribution of common genetic variation to nicotine and cotinine glucuronidation in multiple ethnic/racial populations.
+Confirmation of childhood acute lymphoblastic leukemia variants, ARID5B and IKZF1, and interaction with parental environmental exposures.
+Genome-wide association study identifies TF as a significant modifier gene of iron metabolism in HFE hemochromatosis.
+Genome-wide association study of breast cancer in Latinas identifies novel protective variants on 6q25.
+Common variants at 1p36 are associated with superior frontal gyrus volume.
+Genetic analysis of the pathogenic molecular sub-phenotype interferon-alpha identifies multiple novel loci involved in systemic lupus erythematosus.
+Common variants associated with general and MMR vaccine-related febrile seizures.
+Genome wide association study identifies a novel putative mammographic density locus at 1q12-q21.
+Genomic predictors of combat stress vulnerability and resilience in U.S. Marines: A genome-wide association study across multiple ancestries implicates PRTFDC1 as a potential PTSD gene.
+A genome-wide association study for diabetic retinopathy in a Japanese population: potential association with a long intergenic non-coding RNA.
+Genome-wide association study for refractive astigmatism reveals genetic co-determination with spherical equivalent refractive error: the CREAM consortium.
+Genetic markers associated with plasma protein C level in African Americans: the atherosclerosis risk in communities (ARIC) study.
+Genetic loci associated with circulating levels of very long-chain saturated fatty acids.
+Variation at HLA-DRB1 is associated with resistance to enteric fever.
+Identification of a variant in KDR associated with serum VEGFR2 and pharmacodynamics of Pazopanib.
+Common variation in PHACTR1 is associated with susceptibility to cervical artery dissection.
+Genome-wide studies of verbal declarative memory in nondemented older people: the Cohorts for Heart and Aging Research in Genomic Epidemiology consortium.
+A common variant in RAB27A gene is associated with fractional exhaled nitric oxide levels in adults.
+Identification of a Hashimoto thyroiditis susceptibility locus via a genome-wide comparison with Graves' disease.
+Genetic variants at 1q32.1, 10q11.2 and 19q13.41 are associated with prostate-specific antigen for prostate cancer screening in two Korean population-based cohort studies.
+Genetic variants associated with serum thyroid stimulating hormone (TSH) levels in European Americans and African Americans from the eMERGE Network.
+A genome-wide association study of susceptibility to acute lymphoblastic leukemia in adolescents and young adults.
+Novel loci associated with usual sleep duration: the CHARGE Consortium Genome-Wide Association Study.
+Genome-wide meta-analyses of plasma renin activity and concentration reveal association with the kininogen 1 and prekallikrein genes.
+Genome-wide association study and admixture mapping reveal new loci associated with total IgE levels in Latinos.
+T2DM GWAS in the Lebanese population confirms the role of TCF7L2 and CDKAL1 in disease susceptibility.
+Genetic loci associated with circulating phospholipid trans fatty acids: a meta-analysis of genome-wide association studies from the CHARGE Consortium.
+Genome-wide association study of survival from sepsis due to pneumonia: an observational cohort study.
+Genome wide meta-analysis highlights the role of genetic variation in RARRES2 in the regulation of circulating serum chemerin.
+A genome wide meta-analysis study for identification of common variation associated with breast cancer prognosis.
+Pathway Analysis of Metabolic Syndrome Using a Genome-Wide Association Study of Korea Associated Resource (KARE) Cohorts.
+No evidence for genome-wide interactions on plasma fibrinogen by smoking, alcohol consumption and body mass index: results from meta-analyses of 80,607 subjects.
+Genome-wide association study for endothelial growth factors.
+Genome-wide association analysis of plasma B-type natriuretic peptide in blacks: the Jackson Heart Study.
+A genome-wide association study of marginal zone lymphoma shows association to the HLA region.
+Genome-wide association study identified new susceptibility loci for polycystic ovary syndrome.
+Evidence for several independent genetic variants affecting lipoprotein (a) cholesterol levels.
+Pharmacogenomic determinants of the cardiovascular effects of dalcetrapib.
+A genome-wide association study of chronic obstructive pulmonary disease in Hispanics.
+A genome-wide association study of early spontaneous preterm delivery.
+Identifying genetic loci associated with antidepressant drug response with drug-gene interaction models in a population-based study.
+Pharmacodynamic genome-wide association study identifies new responsive loci for glucocorticoid intervention in asthma.
+Identification of Susceptibility Loci in IL6, RPS9/LILRB3, and an Intergenic Locus on Chromosome 21q22 in Takayasu Arteritis in a Genome-Wide Association Study.
+Common genetic variants influence human subcortical brain structures.
+Genetic variants are major determinants of CSF antibody levels in multiple sclerosis.
+New loci and coding variants confer risk for age-related macular degeneration in East Asians.
+Low-frequency and rare exome chip variants associate with fasting glucose and type 2 diabetes susceptibility.
+ARHGEF12 influences the risk of glaucoma by increasing intraocular pressure.
+Genome-wide association study of clinically defined gout identifies multiple risk loci and its association with clinical subtypes.
+Genetic contributions to variation in general cognitive function: a meta-analysis of genome-wide association studies in the CHARGE consortium (N=53949).
+Genome-wide association study of lymphoblast cell viability after clozapine exposure.
+PARK10 is a major locus for sporadic neuropathologically confirmed Parkinson disease.
+IKZF1, a new susceptibility gene for cold medicine-related Stevens-Johnson syndrome/toxic epidermal necrolysis with severe mucosal involvement.
+A genome-wide association study of periodontitis in a Japanese population.
+15q12 variants, sputum gene promoter hypermethylation, and lung cancer risk: a GWAS in smokers.
+A Genome-Wide Association Study Identifies the Skin Color Genes IRF4, MC1R, ASIP, and BNC2 Influencing Facial Pigmented Spots.
+A common variant mapping to CACNA1A is associated with susceptibility to exfoliation syndrome.
+Genome-wide association study identifies peanut allergy-specific loci and evidence of epigenetic mediation in US children.
+Association of an inherited genetic variant with vincristine-related peripheral neuropathy in children with acute lymphoblastic leukemia.
+Novel genes for airway wall thickness identified with combined genome-wide association and expression analyses.
+IREB2 and GALC are associated with pulmonary artery enlargement in chronic obstructive pulmonary disease.
+Genome-wide association study of short-acting β2-agonists. A novel genome-wide significant locus on chromosome 2 near ASB3.
+Genome-wide association analysis on five isolated populations identifies variants of the HLA-DOA gene associated with white wine liking.
+Genome-wide genetic investigation of serological measures of common infections.
+First genome-wide association study in an Australian aboriginal population provides insights into genetic risk factors for body mass index and type 2 diabetes.
+Meta-analysis of 65,734 individuals identifies TSPAN15 and SLC44A2 as two susceptibility loci for venous thromboembolism.
+Genome-wide association study and meta-analysis identify ISL1 as genome-wide significant susceptibility gene for bladder exstrophy.
+Genome-wide association study identifies a new susceptibility locus for cleft lip with or without a cleft palate.
+Susceptibility to tuberculosis is associated with variants in the ASAP1 gene encoding a regulator of dendritic cell migration.
+Association of aspirin and NSAID use with risk of colorectal cancer according to genetic variants.
+A novel Alzheimer disease locus located near the gene encoding tau protein.
+Novel genetic locus implicated for HIV-1 acquisition with putative regulatory links to HIV replication and infectivity: a genome-wide association study.
+A PAX1 enhancer locus is associated with susceptibility to idiopathic scoliosis in females.
+A large-scale genetic analysis reveals a strong contribution of the HLA class II region to giant cell arteritis susceptibility.
+Genome-wide association study of blood lead shows multiple associations near ALAD.
+Genome-wide association study of myelosuppression in non-small-cell lung cancer patients with platinum-based chemotherapy.
+Identification of myopia-associated WNT7B polymorphisms provides insights into the mechanism underlying the development of myopia.
+Common variation at 1q24.1 (ALDH9A1) is a potential risk factor for renal cancer.
+A genome-wide association study of myasthenia gravis.
+Genome-wide association study of plasma levels of polychlorinated biphenyls disclose an association with the CYP2B6 gene in a population-based sample.
+Genetic variation at MECOM, TERT, JAK2 and HBS1L-MYB predisposes to myeloproliferative neoplasms.
+New basal cell carcinoma susceptibility loci.
+Genome-wide search followed by replication reveals genetic interaction of CD80 and ALOX5AP associated with systemic lupus erythematosus in Asian populations.
+Prediction of breast cancer survival using clinical and genetic markers by tumor subtypes.
+GWAS for executive function and processing speed suggests involvement of the CADM2 gene.
+The obesity-risk variant of FTO is inversely related with the So-Eum constitutional type: genome-wide association and replication analyses.
+Two new loci and gene sets related to sex determination and cancer progression are associated with susceptibility to testicular germ cell tumor.
+Genetic variants in LEKR1 and GALNT10 modulate sex-difference in carotid intima-media thickness: a genome-wide interaction study.
+Genome-wide association study of serum minerals levels in children of different ethnic background.
+Identification of novel genetic markers of breast cancer survival.
+Thyroid cancer GWAS identifies 10q26.12 and 6q14.1 as novel susceptibility loci and reveals genetic heterogeneity among populations.
+Genome-Wide Association Study Identifies Novel Loci Associated With Diisocyanate-Induced Occupational Asthma.
+Genetic variants in five novel loci including CFB and CD40 predispose to chronic hepatitis B.
+A genome wide association study links glutamate receptor pathway to sporadic Creutzfeldt-Jakob disease risk.
+Genome-wide association study identifies ABCG2 (BCRP) as an allopurinol transporter and a determinant of drug response.
+Genetic variants in the ADAMTS13 and SUPT3H genes are associated with ADAMTS13 activity.
+Effect of genetic variations on ticagrelor plasma levels and clinical outcomes.
+Genome-wide association study identifies new susceptibility loci for cutaneous lupus erythematosus.
+Two susceptibility loci identified for prostate cancer aggressiveness.
+Genome-wide association study identifies common variants associated with pharmacokinetics of psychotropic drugs.
+Genome-wide association study of perioperative myocardial infarction after coronary artery bypass surgery.
+A genome-wide association study of body mass index across early life and childhood.
+Genome-wide association study of susceptibility loci for breast cancer in Sardinian population.
+Polymorphism at 19q13.41 Predicts Breast Cancer Survival Specifically after Endocrine Therapy.
+Genetic and clinical factors associated with obesity among adult survivors of childhood cancer: A report from the St. Jude Lifetime Cohort.
+Genome-wide association analysis identifies three new risk loci for gout arthritis in Han Chinese.
+Common Variants at Putative Regulatory Sites of the Tissue Nonspecific Alkaline Phosphatase Gene Influence Circulating Pyridoxal 5'-Phosphate Concentration in Healthy Adults.
+Association of common variants in the calcium-sensing receptor gene with serum calcium levels in East Asians.
+A polymorphism in CCR1/CCR3 is associated with narcolepsy.
+Genome-wide analysis links NFATC2 with asparaginase hypersensitivity.
+A new GWAS and meta-analysis with 1000Genomes imputation identifies novel risk variants for colorectal cancer.
+Meta-analysis of Genome-wide Association Studies for Neuroticism, and the Polygenic Association With Major Depressive Disorder.
+Variants in ELL2 influencing immunoglobulin levels associate with multiple myeloma.
+Genetic risk factors for decreased bone mineral accretion in children with asthma receiving multiple oral corticosteroid bursts.
+Genetic loci for serum magnesium among African-Americans and gene-environment interaction at MUC1 and TRPM6 in European-Americans: the Atherosclerosis Risk in Communities (ARIC) study.
+Genome-wide association study of toxic metals and trace elements reveals novel associations.
+Common variants at 10p12.31, 10q21.1 and 13q12.13 are associated with sporadic pituitary adenoma.
+Identification of new susceptibility loci for IgA nephropathy in Han Chinese.
+Genome-Wide Association Study of Serum Creatinine Levels during Vancomycin Therapy.
+A large multiethnic genome-wide association study of prostate cancer identifies novel risk variants and substantial ethnic differences.
+Genome-wide association study of leukotriene modifier response in asthma.
+GWAS identifies two susceptibility loci for lamotrigine-induced skin rash in patients with epilepsy.
+A trans-ethnic genome-wide association study identifies gender-specific loci influencing pediatric aBMD and BMC at the distal radius.
+A genome-wide association study of late-onset Alzheimer's disease in a Japanese population.
+Genome-wide significant risk associations for mucinous ovarian carcinoma.
+Genetic Factors for the Severity of ACPA-negative Rheumatoid Arthritis in 2 Cohorts of Early Disease: A Genome-wide Study.
+Genome-wide association study of corticobasal degeneration identifies risk variants shared with progressive supranuclear palsy.
+A Genome-Wide Scan Identifies Variants in NFIB Associated with Metastasis in Patients with Osteosarcoma.
+Genome-Wide Association Studies of HIV-1 Host Control in Ethnically Diverse Chinese Populations.
+Genome-Wide Association Study Identifies Novel Pharmacogenomic Loci For Therapeutic Response to Montelukast in Asthma.
+Genetics of Plasma Soluble Receptor for Advanced Glycation End-Products and Cardiovascular Outcomes in a Community-based Population: Results from the Atherosclerosis Risk in Communities Study.
+Genome-wide association study of new-onset atrial fibrillation after coronary artery bypass grafting surgery.
+Meta-Analysis of Genome-Wide Association Studies Identifies Genetic Risk Factors for Stroke in African Americans.
+A genome-wide approach to children's aggressive behavior: The EAGLE consortium.
+F-box/LRR-repeat protein 7 is genetically associated with Alzheimer's disease.
+Common variation at 2p13.3, 3q29, 7p13 and 17q25.1 associated with susceptibility to pancreatic cancer.
+Genetic determinants of swallowing impairments among community dwelling older population.
+A genome-wide association study identifies multiple loci for variation in human ear morphology.
+Genetic Polymorphisms Associated with Hearing Threshold Shift in Subjects during First Encounter with Occupational Impulse Noise.
+Genome-wide association study of gastric adenocarcinoma in Asia: a comparison of associations between cardia and non-cardia tumours.
+Genome-wide association study of triglyceride response to a high-fat meal among participants of the NHLBI Genetics of Lipid Lowering Drugs and Diet Network (GOLDN).
+CDH13 and HCRTR2 May Be Associated with Hypersomnia Symptom of Bipolar Depression: A Genome-Wide Functional Enrichment Pathway Analysis.
+A genome-wide association study identifies variants in KCNIP4 associated with ACE inhibitor-induced cough.
+Three missense variants of metabolic syndrome-related genes are associated with alpha-1 antitrypsin levels.
+Genome-wide association study for sight-threatening diabetic retinopathy reveals association with genetic variation near the GRB2 gene.
+Performance of genetic risk factors in prediction of trichloroethylene induced hypersensitivity syndrome.
+Genome-wide association study identifies variants at 16p13 associated with survival in multiple myeloma patients.
+A Functional SNP in BNC2 Is Associated with Adolescent Idiopathic Scoliosis.
+Heritability and Genome-Wide Association Analyses of Human Gait Suggest Contribution of Common Variants.
+Genome Wide Association Study for Predictors of Progression Free Survival in Patients on Capecitabine, Oxaliplatin, Bevacizumab and Cetuximab in First-Line Therapy of Metastatic Colorectal Cancer.
+A coding variant in RARG confers susceptibility to anthracycline-induced cardiotoxicity in childhood cancer.
+Evidence of CNIH3 involvement in opioid dependence.
+A Genome-wide Association Study Provides Evidence of Sex-specific Involvement of Chr1p35.1 (ZSCAN20-TLR12P) and Chr8p23.1 (HMGB1P46) With Diabetic Neuropathic Pain.
+Variations in the FRA10AC1 Fragile Site and 15q21 Are Associated with Cerebrospinal Fluid Aβ1-42 Level.
+Genetics of glucocorticoid-associated osteonecrosis in children with acute lymphoblastic leukemia.
+GWAS of longitudinal amyloid accumulation on 18F-florbetapir PET in Alzheimer's disease implicates microglial activation gene IL1RAP.
+Genome-wide association study of warfarin maintenance dose in a Brazilian sample.
+Common and rare variants associated with kidney stones and biochemical traits.
+A novel interaction between the FLJ33534 locus and smoking in obesity: a genome-wide study of 14 131 Pakistani adults.
+Plasma Levels of Soluble Interleukin-2 Receptor α: Associations With Clinical Cardiovascular Events and Genome-Wide Association Scan.
+Genome-Wide Association and Trans-ethnic Meta-Analysis for Advanced Diabetic Kidney Disease: Family Investigation of Nephropathy and Diabetes (FIND).
+Bivariate Genome-Wide Association Study Implicates ATP6V1G1 as a Novel Pleiotropic Locus Underlying Osteoporosis and Age at Menarche.
+Genome-wide Association Study of Autism Spectrum Disorder in the East Asian Populations.
+Genome-wide association study on antipsychotic-induced weight gain in the CATIE sample.
+Genome-wide association study on progression of carotid artery intima media thickness over 10 years in a Chinese cohort.
+Genome-wide association study for rotator cuff tears identifies two significant single-nucleotide polymorphisms.
+A genome-wide association study of antidepressant response in Koreans.
+The genetics of alcohol dependence: Twin and SNP-based heritability, and genome-wide association study based on AUDIT scores.
+No Major Host Genetic Risk Factor Contributed to A(H1N1)2009 Influenza Severity.
+Genome-wide association study identifies new susceptibility loci for adolescent idiopathic scoliosis in Chinese girls.
+A genome-wide association study of bipolar disorder with comorbid eating disorder replicates the SOX2-OT region.
+Genome-wide association study identifies multiple susceptibility loci for glioma.
+Whole-genome sequencing identifies EN1 as a determinant of bone density and fracture.
+GCKR and PPP1R3B identified as genome-wide significant loci for plasma lactate: the Atherosclerosis Risk in Communities (ARIC) study.
+Genome-wide meta-analysis reveals common splice site acceptor variant in CHRNA4 associated with nicotine dependence.
+Large-scale association analysis in Asians identifies new susceptibility loci for prostate cancer.
+White Matter Lesion Progression: Genome-Wide Search for Genetic Influences.
+Polymorphisms in HLA Class II Genes Are Associated With Susceptibility to Staphylococcus aureus Infection in a White Population.
+Genome-Wide Association Study of Late-Onset Myasthenia Gravis: Confirmation of 
+Genome-Wide Association Study of Event-Free Survival in Diffuse Large B-Cell Lymphoma Treated With Immunochemotherapy.
+A genome-wide association study confirms PNPLA3 and identifies TM6SF2 and MBOAT7 as risk loci for alcohol-related cirrhosis.
+Genome-wide association studies suggest sex-specific loci associated with abdominal and visceral fat.
+Genome-Wide Association Study of Peripheral Arterial Disease in a Japanese Population.
+Genome-wide association study identifies SESTD1 as a novel risk gene for lithium-responsive bipolar disorder.
+Identification of four new susceptibility loci for testicular germ cell tumour.
+Dense genotyping of immune-related loci identifies HLA variants associated with increased risk of collagenous colitis.
+Genome-Wide Association Studies of the Human Gut Microbiota.
+Genetic Determinants of Pelvic Organ Prolapse among African American and Hispanic Women in the Women's Health Initiative.
+Meta-analysis identifies seven susceptibility loci involved in the atopic march.
+Genome-wide association study with the risk of schizophrenia in a Korean population.
+Common genetic variation and survival after colorectal cancer diagnosis: a genome-wide analysis.
+Nine susceptibility loci for hepatitis B virus-related hepatocellular carcinoma identified by a pilot two-stage genome-wide association study.
+Genome-wide association analysis identifies three new susceptibility loci for childhood body mass index.
+Genome-Wide Association Study in an Amerindian Ancestry Population Reveals Novel Systemic Lupus Erythematosus Risk Loci and the Role of European Admixture.
+Genome-wide Association Analysis of Psoriatic Arthritis and Cutaneous Psoriasis Reveals Differences in Their Genetic Architecture.
+Meta-analysis of genome-wide association studies identifies common susceptibility polymorphisms for colorectal and endometrial cancer near SH2B3 and TSHZ1.
+Pharmacogenetic study of long-term response to interferon-β treatment in multiple sclerosis.
+Meta analysis identifies a novel susceptibility locus associated with heel bone strength in the Korean population.
+Genome-wide association study of 25(OH) Vitamin D concentrations in Punjabi Sikhs: Results of the Asian Indian diabetic heart study.
+A Genome-Wide Association Study Uncovers a Genetic Locus Associated with Thoracic-to-Hip Ratio in Koreans.
+Genome-wide meta-analysis of cerebral white matter hyperintensities in patients with stroke.
+Loci associated with ischaemic stroke and its subtypes (SiGN): a genome-wide association study.
+Genome-wide association study for the interaction between BMR and BMI in obese Korean women including overweight.
+Genome-wide association study reveals two loci for serum magnesium concentrations in European-American children.
+Identification of new susceptibility loci for gastric non-cardia adenocarcinoma: pooled results from two Chinese genome-wide association studies.
+Shared genetic susceptibility of vascular-related biomarkers with ischemic and recurrent stroke.
+A GWAS Meta-analysis and Replication Study Identifies a Novel Locus within CLPTM1L/TERT Associated with Nasopharyngeal Carcinoma in Individuals of Chinese Ancestry.
+Meta-analysis of genome-wide association studies identifies multiple lung cancer susceptibility loci in never-smoking Asian women.
+Genetic evidence that lower circulating FSH levels lengthen menstrual cycle, increase age at menopause and impact female reproductive health.
+Genome-Wide Association Analysis of Young-Onset Stroke Identifies a Locus on Chromosome 10q25 Near HABP2.
+Sequence variants in the PTCH1 gene associate with spine bone mineral density and osteoporotic fractures.
+Genome-wide association analysis identifies TXNRD2, ATXN2 and FOXC1 as susceptibility loci for primary open-angle glaucoma.
+A Genome-wide study of blood pressure in African Americans accounting for gene-smoking interaction.
+HLA-B*38:02:01 predicts carbimazole/methimazole-induced agranulocytosis.
+Meta-analysis of genome-wide association studies of anxiety disorders.
+Genome-wide association study of serum lipids confirms previously reported associations as well as new associations of common SNPs within PCSK7 gene with triglyceride.
+A genome-wide association study of pulmonary tuberculosis in Morocco.
+CYP24A1 variant modifies the association between use of oestrogen plus progestogen therapy and colorectal cancer risk.
+Genome-wide association study reveals sex-specific selection signals against autosomal nucleotide variants.
+A longitudinal genome-wide association study of anti-tumor necrosis factor response among Japanese patients with rheumatoid arthritis.
+Genome-wide Association Study of Platelet Count Identifies Ancestry-Specific Loci in Hispanic/Latino Americans.
+Genome-wide association and Mendelian randomization study of NT-proBNP in patients with acute coronary syndrome.
+Genetic variants associated with response to lithium treatment in bipolar disorder: a genome-wide association study.
+Genetic loci associated with ideal cardiovascular health: A meta-analysis of genome-wide association studies.
+Genetic loci for Epstein-Barr virus nuclear antigen-1 are associated with risk of multiple sclerosis.
+Identification of IRX1 as a Risk Locus for Rheumatoid Factor Positivity in Rheumatoid Arthritis in a Genome-Wide Association Study.
+Genome-wide association studies in the Japanese population identify seven novel loci for type 2 diabetes.
+A genome-wide association study reveals susceptibility loci for myocardial infarction/coronary artery disease in Saudi Arabs.
+Family-based association analyses of imputed genotypes reveal genome-wide significant association of Alzheimer's disease with OSBPL6, PTPRG, and PDCL3.
+GWAS of 89,283 individuals identifies genetic variants associated with self-reporting of being a morning person.
+Genetic risk variants for membranous nephropathy: extension of and association with other chronic kidney disease aetiologies.
+A Common Variant in the SETD7 Gene Predicts Serum Lycopene Concentrations.
+Genome-wide association study identifies multiple susceptibility loci for craniofacial microsomia.
+Obsessive-compulsive symptoms in a large population-based twin-family sample are predicted by clinically based polygenic scores and by genome-wide SNPs.
+Pharmacogenomic Study of Clozapine-Induced Agranulocytosis/Granulocytopenia in a Japanese Population.
+A Genome-Wide Association Study of Cutaneous Squamous Cell Carcinoma among European Descendants.
+A common variant association study reveals novel susceptibility loci for low HDL-cholesterol levels in ethnic Arabs.
+Novel genetic predictors of venous thromboembolism risk in African Americans.
+Genetic analysis of advanced glycation end products in the DHS MIND study.
+Six Novel Loci Associated with Circulating VEGF Levels Identified by a Meta-analysis of Genome-Wide Association Studies.
+Novel loci and pathways significantly associated with longevity.
+Genome-wide association study using family-based cohorts identifies the WLS and CCDC170/ESR1 loci as associated with bone mineral density.
+Genome-Wide Association Study for Incident Myocardial Infarction and Coronary Heart Disease in Prospective Cohort Studies: The CHARGE Consortium.
+Identification of Susceptibility Loci and Genes for Colorectal Cancer Risk.
+Meta-analysis of genome-wide association studies discovers multiple loci for chronic lymphocytic leukemia.
+A genome-wide association study of congenital cardiovascular left-sided lesions shows association with a locus on chromosome 20.
+International Genome-Wide Association Study Consortium Identifies Novel Loci Associated With Blood Pressure in Children and Adolescents.
+Genetic Associations with Obstructive Sleep Apnea Traits in Hispanic/Latino Americans.
+Response to Intravenous Cyclophosphamide Treatment for Lupus Nephritis Associated with Polymorphisms in the FCGR2B-FCRLA Locus.
+Genetic risk factors for the posterior cortical atrophy variant of Alzheimer's disease.
+Somatic, positive and negative domains of the Center for Epidemiological Studies Depression (CES-D) scale: a meta-analysis of genome-wide association studies.
+Genome wide association study identifies two loci associated with cadmium in erythrocytes among never-smokers.
+Genetic association and stress mediated down-regulation in trabecular meshwork implicates MPP7 as a novel candidate gene in primary open angle glaucoma.
+Genome-wide analyses of aggressiveness in attention-deficit hyperactivity disorder.
+Genome-Wide Association Study of Bladder Cancer in a Chinese Cohort Reveals a New Susceptibility Locus at 5q12.3.
+Genome-wide Association Study of Cannabis Dependence Severity, Novel Risk Variants, and Shared Genetic Risks.
+Genome-wide association study identifies five new susceptibility loci for primary angle closure glaucoma.
+A Genome-wide Association Study of Nonsyndromic Cleft Palate Identifies an Etiologic Missense Variant in GRHL3.
+Identification of additional risk loci for stroke and small vessel disease: a meta-analysis of genome-wide association studies.
+Mosaic loss of chromosome Y is associated with common variation near TCL1A.
+New Locus for Skin Intrinsic Fluorescence in Type 1 Diabetes Also Associated With Blood and Skin Glycated Proteins.
+Genetic Variants in the Bone Morphogenic Protein Gene Family Modify the Association between Residential Exposure to Traffic and Peripheral Arterial Disease.
+Four Susceptibility Loci for Gallstone Disease Identified in a Meta-analysis of Genome-Wide Association Studies.
+Genome-wide association study of colorectal cancer in Hispanics.
+The Novel 
+Clinical and Genetic Risk Factors for Acute Pancreatitis in Patients With Acute Lymphoblastic Leukemia.
+Identification of a Systemic Lupus Erythematosus Risk Locus Spanning ATG16L2, FCHSD2, and P2RY2 in Koreans.
+Pharmacogenetic Discovery in CALGB (Alliance) 90401 and Mechanistic Validation of a VAC14 Polymorphism that Increases Risk of Docetaxel-Induced Neuropathy.
+Genetic variants associated with antithyroid drug-induced agranulocytosis: a genome-wide association study in a European population.
+Novel genetic risk factors for asthma in African American children: Precision Medicine and the SAGE II Study.
+Genetic variants in RBFOX3 are associated with sleep latency.
+Discovery of Genetic Variation on Chromosome 5q22 Associated with Mortality in Heart Failure.
+Common genetic variation in ETV6 is associated with colorectal cancer susceptibility.
+Identification of Common Genetic Variants Influencing Spontaneous Dizygotic Twinning and Female Fertility.
+Variation at HLA-DPB1 is associated with dermatomyositis in Chinese population.
+Genome-wide Association Studies of Posttraumatic Stress Disorder in 2 Cohorts of US Army Soldiers.
+Genome-Wide Association Study Identifies Novel Susceptibility Genes Associated with Coronary Artery Aneurysm Formation in Kawasaki Disease.
+Genome-wide association study confirms lung cancer susceptibility loci on chromosomes 5p15 and 15q25 in an African-American population.
+Detection and interpretation of shared genetic influences on 42 human traits.
+A combined large-scale meta-analysis identifies COG6 as a novel shared risk locus for rheumatoid arthritis and systemic lupus erythematosus.
+Genome-Wide Association Study of Absolute QRS Voltage Identifies Common Variants of TBX3 as Genetic Determinants of Left Ventricular Mass in a Healthy Japanese Population.
+Genome-wide Association for Major Depression Through Age at Onset Stratification: Major Depressive Disorder Working Group of the Psychiatric Genomics Consortium.
+Genome-wide association study identifies 8p21.3 associated with persistent hepatitis B virus infection among Chinese.
+Association of a Locus in the CAMTA1 Gene With Survival in Patients With Sporadic Amyotrophic Lateral Sclerosis.
+Association of Polymorphisms in MACRO Domain Containing 2 With Thyroid-Associated Orbitopathy.
+Genome-wide association of familial prostate cancer cases identifies evidence for a rare segregating haplotype at 8q24.21.
+Pooled analysis of genome-wide association studies of cervical intraepithelial neoplasia 3 (CIN3) identifies a new susceptibility locus.
+Bivariate genome-wide association study identifies novel pleiotropic loci for lipids and inflammation.
+Multiethnic genome-wide association study identifies ethnic-specific associations with body mass index in Hispanics and African Americans.
+Association of 3q13.32 variants with hip trochanter and intertrochanter bone mineral density identified by a genome-wide association study.
+GWAS analysis of handgrip and lower body strength in older adults in the CHARGE consortium.
+Genome-wide association study identifies multiple susceptibility loci for multiple myeloma.
+Genome-wide association meta-analyses identified 1q43 and 2q32.2 for hip Ward's triangle areal bone mineral density.
+Genome-wide common and rare variant analysis provides novel insights into clozapine-associated neutropenia.
+Genome-Wide Association Study of the Modified Stumvoll Insulin Sensitivity Index Identifies BCL2 and FAM19A2 as Novel Insulin Sensitivity Loci.
+Genome-wide association study in East Asians suggests UHMK1 as a novel bone mineral density susceptibility gene.
+An extended genome-wide association study identifies novel susceptibility loci for nasopharyngeal carcinoma.
+Meta-analysis of Genome Wide Association Studies Identifies Genetic Markers of Late Toxicity Following Radiotherapy for Prostate Cancer.
+KAT2B polymorphism identified for drug abuse in African Americans with regulatory links to drug abuse pathways in human prefrontal cortex.
+A thrifty variant in CREBRF strongly influences body mass index in Samoans.
+A new 3p25 locus is associated with liver fibrosis progression in human immunodeficiency virus/hepatitis C virus-coinfected patients.
+Genome-Wide Gene-Sodium Interaction Analyses on Blood Pressure: The Genetic Epidemiology Network of Salt-Sensitivity Study.
+Genome Wide Association Study Identifies L3MBTL4 as a Novel Susceptibility Gene for Hypertension.
+Novel Association of Genetic Markers Affecting CYP2A6 Activity and Lung Cancer Risk.
+Identification of susceptibility gene associated with female primary Sjögren's syndrome in Han Chinese by genome-wide association study.
+Association of variations in HLA class II and other loci with susceptibility to EGFR-mutated lung adenocarcinoma.
+Genome-wide association studies in oesophageal adenocarcinoma and Barrett's oesophagus: a large-scale meta-analysis.
+The First Pilot Genome-Wide Gene-Environment Study of Depression in the Japanese Population.
+The Interplay Between Risky Sexual Behaviors and Alcohol Dependence: Genome-Wide Association and Neuroimaging Support for LHPP as a Risk Gene.
+Genetic Analysis with the Immunochip Platform in Behçet Disease. Identification of Residues Associated in the HLA Class I Region and New Susceptibility Loci.
+A coding variant in 
+Identification of Loci at 1q21 and 16q23 That Affect Susceptibility to Inflammatory Bowel Disease in Koreans.
+Genomewide Approach Validates Thiopurine Methyltransferase Activity Is a Monogenic Pharmacogenomic Trait.
+A genome-wide association study meta-analysis of clinical fracture in 10,012 African American women.
+Fine-mapping, novel loci identification, and SNP association transferability in a genome-wide association study of QRS duration in African Americans.
+A Genome-Wide Association Study to Identify Single-Nucleotide Polymorphisms for Acute Kidney Injury.
+Variation in the glucose transporter gene SLC2A2 is associated with glycemic response to metformin.
+Novel HLA-DP region susceptibility loci associated with severe acute GvHD.
+Chronic Periodontitis Genome-wide Association Study in the Hispanic Community Health Study / Study of Latinos.
+Novel Genetic Variants Associated With Increased Vertebral Volumetric BMD, Reduced Vertebral Fracture Risk, and Increased Expression of SLC1A3 and EPHB2.
+A common variant association study in ethnic Saudi Arabs reveals novel susceptibility loci for hypertriglyceridemia.
+A genome-wide association study of emotion dysregulation: Evidence for interleukin 2 receptor alpha.
+Analysis of 23andMe antidepressant efficacy survey data: implication of circadian rhythm and neuroplasticity in bupropion response.
+Genetic Factors of the Disease Course after Sepsis: A Genome-Wide Study for 28Day Mortality.
+Genome-wide association analysis reveals variants on chromosome 19 that contribute to childhood risk of chronic otitis media with effusion.
+Genome-wide association reveals that common genetic variation in the kallikrein-kinin system is associated with serum L-arginine levels.
+Genome-wide association study of plasma resistin levels identified rs1423096 and rs10401670 as possible functional variants in the Japanese population.
+Genome-wide association and replication study of anti-tuberculosis drugs-induced liver toxicity.
+Genome-wide association study suggests common variants within RP11-634B7.4 gene influencing severe pre-treatment pain in head and neck cancer patients.
+A genome wide association study suggests the association of muskelin with early onset bipolar disorder: Implications for a GABAergic epileptogenic neurogenesis model.
+Genome-Wide Association Study of Radiographic Knee Osteoarthritis in North American Caucasians.
+Trans-ethnic meta-analysis of genome-wide association studies for Hirschsprung disease.
+A genome-wide association study identifies risk loci for childhood acute lymphoblastic leukemia at 10q26.13 and 12q23.1.
+Novel Genetic Variants for Cartilage Thickness and Hip Osteoarthritis.
+Genome-Wide Interaction Analyses between Genetic Variants and Alcohol Consumption and Smoking for Risk of Colorectal Cancer.
+Genome-Wide Association Study Identifies ZNF354C Variants Associated with Depression from Interferon-Based Therapy for Chronic Hepatitis C.
+Common Genetic Variation Near Melatonin Receptor 1A Gene Linked to Job-Related Exhaustion in Shift Workers.
+Variant Discovery and Fine Mapping of Genetic Loci Associated with Blood Pressure Traits in Hispanics and African Americans.
+GWAS in the SIGNAL/PHARE clinical cohort restricts the association between the FGFR2 locus and estrogen receptor status to HER2-negative breast cancer patients.
+Genome-wide association analyses identify new susceptibility loci for oral cavity and pharyngeal cancer.
+Genetic Overlap Between Attention-Deficit/Hyperactivity Disorder and Bipolar Disorder: Evidence From Genome-wide Association Study Meta-analysis.
+Two novel loci, COBL and SLC10A2, for Alzheimer's disease in African Americans.
+A Large Genome-Wide Association Study of Age-Related Hearing Impairment Using Electronic Health Records.
+Genome-wide scans reveal variants at EDAR predominantly affecting hair straightness in Han Chinese and Uyghur populations.
+Pleiotropic Meta-Analyses of Longitudinal Studies Discover Novel Genetic Variants Associated with Age-Related Diseases.
+Genetic and methylation variation in the CYP2B6 gene is related to circulating p,p'-dde levels in a population-based sample.
+Genome-wide association study identifies WNT7B as a novel locus for central corneal thickness in Latinos.
+KLB is associated with alcohol drinking, and its gene product β-Klotho is necessary for FGF21 regulation of alcohol preference.
+Common variants in CLDN14 are associated with differential excretion of magnesium over calcium in urine.
+Common variants on 2p16.1, 6p22.1 and 10q24.32 are associated with schizophrenia in Han Chinese population.
+Genetic Variants Associated with Circulating Parathyroid Hormone.
+An Analysis of Two Genome-wide Association Meta-analyses Identifies a New Locus for Broad Depression Phenotype.
+Genome-wide association study identifies variants in 
+Large-scale pharmacogenomic study of sulfonylureas and the QT, JT and QRS intervals: CHARGE Pharmacogenomics Working Group.
+A large-scale genome-wide association and meta-analysis identified four novel susceptibility loci for leprosy.
+Genetic variation at 16q24.2 is associated with small vessel stroke.
+Identification of novel loci affecting circulating chromogranins and related peptides.
+The CAPN2/CAPN8 Locus on Chromosome 1q Is Associated with Variation in Serum Alpha-Carotene Concentrations.
+Bivariate genome-wide association analyses identified genetic pleiotropic effects for bone mineral density and alcohol drinking in Caucasians.
+Genetic architecture differences between pediatric and adult-onset inflammatory bowel diseases in the Polish population.
+Rare genetic variants in SMAP1, B3GAT2, and RIMS1 contribute to pediatric venous thromboembolism.
+Genome-wide association study of immunoglobulin light chain amyloidosis in three patient cohorts: comparison with myeloma.
+A genome wide association study of fast beta EEG in families of European ancestry.
+A Genome-wide Association Study Identifies Risk Alleles in Plasminogen and P4HA2 Associated with Giant Cell Arteritis.
+Association of Liver Injury From Specific Drugs, or Groups of Drugs, With Polymorphisms in HLA and Other Genes in a Genome-Wide Association Study.
+A genome-wide interaction analysis of tricyclic/tetracyclic antidepressants and RR and QT intervals: a pharmacogenomics study from the Cohorts for Heart and Aging Research in Genomic Epidemiology (CHARGE) consortium.
+Variants in 
+Genome-wide association study identifies novel susceptibility loci for migraine in Han Chinese resided in Taiwan.
+A Genome-Wide Association Study of Vertical Cup-Disc Ratio in a Latino Population.
+Genome-wide study of resistant hypertension identified from electronic health records.
+Body mass index change in gastrointestinal cancer and chronic obstructive pulmonary disease is associated with Dedicator of Cytokinesis 1.
+Genome-wide association scan of neuropathic pain symptoms post total joint replacement highlights a variant in the protein-kinase C gene.
+Genome-wide association studies identify PRKCB as a novel genetic susceptibility locus for primary biliary cholangitis in the Japanese population.
+An endophenotype approach to the genetics of alcohol dependence: a genome wide association study of fast beta EEG in families of African ancestry.
+Evidence for genetic heterogeneity between clinical subtypes of bipolar disorder.
+Identification of Genetic Variants Linking Protein C and Lipoprotein Metabolism: The ARIC Study (Atherosclerosis Risk in Communities).
+Genome-Wide Association Studies of Multiple Keratinocyte Cancers.
+GWAS Identifies New Loci for Painful Temporomandibular Disorder: Hispanic Community Health Study/Study of Latinos.
+Genetic variants associated with angiotensin-converting enzyme inhibitor-induced cough: a genome-wide association study in a Swedish population.
+Genome-Wide Study Links PNPLA3 Variant With Elevated Hepatic Transaminase After Acute Lymphoblastic Leukemia Therapy.
+Genetic variation underlying renal uric acid excretion in Hispanic children: the Viva La Familia Study.
+GWAS meta-analysis reveals novel loci and genetic correlates for general cognitive function: a report from the COGENT consortium.
+6q12 and 11p14 variants are associated with postnatal exhaled nitric oxide levels and respiratory symptoms.
+Genome-wide association study identifies 
+Genome-wide association analysis of chronic lymphocytic leukaemia, Hodgkin lymphoma and multiple myeloma identifies pleiotropic risk loci.
+A genome-wide association study identifies two novel susceptibility loci and trans population polygenicity associated with bipolar disorder.
+Genome-wide association study of therapeutic opioid dosing identifies a novel locus upstream of OPRM1.
+Genome-wide association study identifies four SNPs associated with response to platinum-based neoadjuvant chemotherapy for cervical cancer.
+Genome-wide association study identiﬁes HLA-DR variants conferring risk of HBV-related acute-on-chronic liver failure.
+Genome-wide association study with additional genetic and post-transcriptional analyses reveals novel regulators of plasma factor XI levels.
+Genetics of early-onset Parkinson's disease in Finland: exome sequencing and genome-wide association study.
+Genome-Wide Association Study Identifies TLL1 Variant Associated With Development of Hepatocellular Carcinoma After Eradication of Hepatitis C Virus Infection.
+A Genome-Wide Association Study Identifies Genetic Variants Associated with Mathematics Ability.
+Genome-wide interaction study of dust mite allergen on lung function in children with asthma.
+Genome-wide association analysis implicates dysregulation of immunity genes in chronic lymphocytic leukaemia.
+Two-stage genome-wide association study identifies a novel susceptibility locus associated with melanoma.
+GWAS for serum galactose-deficient IgA1 implicates critical genes of the O-glycosylation pathway.
+A genome-wide association study yields five novel thyroid cancer risk loci.
+Identification of unique venous thromboembolism-susceptibility variants in African-Americans.
+Association between genetic variation within vitamin D receptor-DNA binding sites and risk of basal cell carcinoma.
+Sequence variant at 8q24.21 associates with sciatica caused by lumbar disc herniation.
+Genomic variants at 20p11 associated with body fat mass in the European population.
+Genome-wide meta-analysis identifies novel loci of plaque burden in carotid artery.
+GWAS identifies population-specific new regulatory variants in FUT6 associated with plasma B12 concentrations in Indians.
+Genome-wide analyses identify common variants associated with macular telangiectasia type 2.
+Genome-wide association study identifies novel susceptible loci and highlights Wnt/beta-catenin pathway in the development of adolescent idiopathic scoliosis.
+Genome-wide association study identifies four novel loci associated with Alzheimer's endophenotypes and disease modifiers.
+Common genetic variation and risk of gallbladder cancer in India: a case-control genome-wide association study.
+A genome-wide gene-by-trauma interaction study of alcohol misuse in two independent cohorts identifies PRKG1 as a risk locus.
+Novel colon cancer susceptibility variants identified from a genome-wide association study in African Americans.
+Genome-wide analysis identifies an african-specific variant in SEMA4D associated with body mass index.
+Identification of a novel locus associated with skin colour in African-admixed populations.
+Genetic determinants of adiponectin regulation revealed by pregnancy.
+Whole-genome sequencing identifies rare genotypes in COMP and CHADL associated with high risk of hip osteoarthritis.
+Genome-wide association study of glioma subtypes identifies specific differences in genetic susceptibility to glioblastoma and non-glioblastoma tumors.
+Risk prediction of pulmonary tuberculosis using genetic and conventional risk factors in adult Korean population.
+A genome-wide trans-ethnic interaction study links the PIGR-FCAMR locus to coronary atherosclerosis via interactions between genetic variants and residential exposure to traffic.
+Susceptibility loci for metabolic syndrome and metabolic components identified in Han Chinese: a multi-stage genome-wide association study.
+Genome-wide association study identifies three novel loci in Fuchs endothelial corneal dystrophy.
+Genome-wide association screens for Achilles tendon and ACL tears and tendinopathy.
+Genetic Analysis of Venous Thromboembolism in UK Biobank Identifies the ZFPM2 Locus and Implicates Obesity as a Causal Risk Factor.
+Genome-Wide Association Study Meta-Analysis of Long-Term Average Blood Pressure in East Asians.
+Genome-wide genetic analyses highlight mitogen-activated protein kinase (MAPK) signaling in the pathogenesis of endometriosis.
+Genome-Wide Association and Replication Study of Hepatotoxicity Induced by Antiretrovirals Alone or with Concomitant Anti-Tuberculosis Drugs.
+Genome-wide associations of CD46 and IFI44L genetic variants with neutralizing antibody response to measles vaccine.
+Genome-wide association analysis for chronic venous disease identifies EFEMP1 and KCNH8 as susceptibility loci.
+A new locus regulating MICALL2 expression was identified for association with executive inhibition in children with attention deficit hyperactivity disorder.
+The first genome-wide association study identifying new susceptibility loci for obstetric antiphospholipid syndrome.
+SLCO1B1 polymorphisms and plasma estrone conjugates in postmenopausal women with ER+ breast cancer: genome-wide association studies of the estrone pathway.
+Genome-wide meta-analysis identifies a novel susceptibility signal at CACNA2D3 for nicotine dependence.
+A genome-wide association study identifies nucleotide variants at SIGLEC5 and DEFA1A3 as risk loci for periodontitis.
+Identification of genes associated with dissociation of cognitive performance and neuropathological burden: Multistep analysis of genetic, epigenetic, and transcriptional data.
+Genome-wide association study of facial morphology reveals novel associations with FREM1 and PARK2.
+Genome-wide association study of HIV-associated neurocognitive disorder (HAND): A CHARTER group study.
+Korean atrial fibrillation network genome-wide association study for early-onset atrial fibrillation identifies novel susceptibility loci.
+A meta-analysis of genome-wide association studies of asthma in Puerto Ricans.
+Genetic polymorphisms associated with pancreatic cancer survival: a genome-wide association study.
+Genetic contributors to variation in alcohol consumption vary by race/ethnicity in a large multi-ethnic genome-wide association study.
+Genome-Wide Association Shows that Pigmentation Genes Play a Role in Skin Aging.
+Genome-wide association study of iron traits and relation to diabetes in the Hispanic Community Health Study/Study of Latinos (HCHS/SOL): potential genomic intersection of iron and glucose regulation?
+Association of CD8
+A genome-wide association meta-analysis on lipoprotein (a) concentrations adjusted for apolipoprotein (a) isoforms.
+Genome-Wide Association Study of Heavy Smoking and Daily/Nondaily Smoking in the Hispanic Community Health Study/Study of Latinos (HCHS/SOL).
+Genome-wide association study of subclinical interstitial lung disease in MESA.
+Common variants upstream of MLF1 at 3q25 and within CPZ at 4p16 associated with neuroblastoma.
+Genome-Wide Association Study of Psychosis Proneness in the Finnish Population.
+ASD restricted and repetitive behaviors associated at 17q21.33: genes prioritized by expression in fetal brains.
+Genome-Wide Significance for PCLO as a Gene for Major Depressive Disorder.
+Whole genome sequencing and imputation in isolated populations identify genetic associations with medically-relevant complex traits.
+Genome-Wide Association Studies and Meta-Analyses for Congenital Heart Defects.
+Genome-wide meta-analysis of cognitive empathy: heritability, and correlates with sex, neuropsychiatric conditions and cognition.
+Genome-wide approach identifies a novel gene-maternal pre-pregnancy BMI interaction on preterm birth.
+Genome-wide association study identifies multiple risk loci for renal cell carcinoma.
+Genome-wide association study of heart rate and its variability in Hispanic/Latino cohorts.
+A genome-wide association study of anorexia nervosa suggests a risk locus implicated in dysregulated leptin signaling.
+Genetic variants in 
+A chromosome 5q31.1 locus associates with tuberculin skin test reactivity in HIV-positive individuals from tuberculosis hyper-endemic regions in east Africa.
+Heritability and genome-wide associations studies of cerebral blood flow in the general population.
+Identification of genetic variants associated with Huntington's disease progression: a genome-wide association study.
+A genetic variant near GATA3 implicated in inherited susceptibility and etiology of benign prostatic hyperplasia (BPH) and lower urinary tract symptoms (LUTS).
+Polygenic risk score and heritability estimates reveals a genetic relationship between ASD and OCD.
+A genome-wide association study suggests that MAPK14 is associated with diabetic foot ulcers.
+Genome-wide association studies of placebo and duloxetine response in major depressive disorder.
+Genome-wide association study of neovascular age-related macular degeneration in the Thai population.
+Genome-wide association and expression quantitative trait loci studies identify multiple susceptibility loci for thyroid cancer.
+Genotypic variability based association identifies novel non-additive loci DHCR7 and IRF4 in sero-negative rheumatoid arthritis.
+Low-Frequency Synonymous Coding Variation in CYP2R1 Has Large Effects on Vitamin D Levels and Risk of Multiple Sclerosis.
+Genetic variation in the gene 
+Genome-wide gene by lead exposure interaction analysis identifies UNC5D as a candidate gene for neurodevelopment.
+Genome-wide association analysis identifies common variants influencing infant brain volumes.
+Sulfasalazine-Induced Agranulocytosis Is Associated With the Human Leukocyte Antigen Locus.
+Two Novel Susceptibility Loci for Prostate Cancer in Men of African Ancestry.
+A genome-wide association study identified a novel genetic loci STON1-GTF2A1L/LHCGR/FSHR for bilaterality of neovascular age-related macular degeneration.
+Genetic association analysis identifies variants associated with disease progression in primary sclerosing cholangitis.
+Genetic variants specific to aging-related verbal memory: Insights from GWASs in a population-based cohort.
+The SNP-set based association study identifies ITGA1 as a susceptibility gene of attention-deficit/hyperactivity disorder in Han Chinese.
+Genome-wide association study identifies novel type II diabetes risk loci in Jordan subpopulations.
+Family-based exome-wide association study of childhood acute lymphoblastic leukemia among Hispanics confirms role of ARID5B in susceptibility.
+A multi-stage genome-wide association study of uterine fibroids in African Americans.
+A genome-wide association analysis identifies 
+New variants near RHOJ and C2, HLA-DRA region and susceptibility to endometriosis in the Polish population-The genome-wide association study.
+Rare coding variants in PLCG2, ABI3, and TREM2 implicate microglial-mediated innate immunity in Alzheimer's disease.
+Genome-wide analysis of health-related biomarkers in the UK Household Longitudinal Study reveals novel associations.
+Male-specific association of the FCGR2A His167Arg polymorphism with Kawasaki disease.
+Genetic association with B-cell acute lymphoblastic leukemia in allogeneic transplant patients differs by age and sex.
+Detection of susceptibility loci on 
+Genome-wide association study of a nicotine metabolism biomarker in African American smokers: impact of chromosome 19 genetic influences.
+A novel role for ciliary function in atopy: ADGRV1 and DNAH5 interactions.
+The common variants implicated in microstructural abnormality of first episode and drug-naïve patients with schizophrenia.
+Genome-wide association study evaluating single-nucleotide polymorphisms and outcomes in patients with advanced stage serous ovarian or primary peritoneal cancer: An NRG Oncology/Gynecologic Oncology Group study.
+Cross-ethnic meta-analysis identifies association of the GPX3-TNIP1 locus with amyotrophic lateral sclerosis.
+Discovery of susceptibility loci associated with tuberculosis in Han Chinese.
+Genome-wide association study and meta-analysis in Northern European populations replicate multiple colorectal cancer risk loci.
+Two genetic loci associated with ankle injury.
+Bayesian and frequentist analysis of an Austrian genome-wide association study of colorectal cancer and advanced adenomas.
+A functional variant in MIR4300HG, the host gene of microRNA MIR4300 is associated with progression of adolescent idiopathic scoliosis.
+Genetic variants associated with susceptibility to idiopathic pulmonary fibrosis in people of European ancestry: a genome-wide association study.
+Genome-wide association study of alcohol use disorder identification test (AUDIT) scores in 20 328 research participants of European ancestry.
+Genetic Risk Variants Associated With Comorbid Alcohol Dependence and Major Depression.
+Multiethnic Meta-Analysis Identifies RAI1 as a Possible Obstructive Sleep Apnea-related Quantitative Trait Locus in Men.
+Problematic alcohol use associates with sodium channel and clathrin linker 1 (SCLT1) in trauma-exposed populations.
+Genome-Wide Meta-Analysis Unravels Interactions between Magnesium Homeostasis and Metabolic Phenotypes.
+Genetic Variants Associated With Uncontrolled Blood Pressure on Thiazide Diuretic/β-Blocker Combination Therapy in the PEAR (Pharmacogenomic Evaluation of Antihypertensive Responses) and INVEST (International Verapamil-SR Trandolapril Study) Trials.
+Genome-wide association study identifies a novel locus for cannabis dependence.
+A genome-wide association study links small-vessel ischemic stroke to autophagy.
+Identification of CDC42BPG as a novel susceptibility locus for hyperuricemia in a Japanese population.
+Genome-wide association study of PR interval in Hispanics/Latinos identifies novel locus at 
+A variant in PPP4R3A protects against alzheimer-related metabolic decline.
+Genome-wide association study of telomere length among South Asians identifies a second RTEL1 association signal.
+New insights into the pharmacogenomics of antidepressant response from the GENDEP and STAR*D studies: rare variant analysis and high-density imputation.
+Identification of a novel locus on chromosome 2q13, which predisposes to clinical vertebral fractures independently of bone density.
+Genome-Wide Study of Subcutaneous and Visceral Adipose Tissue Reveals Novel Sex-Specific Adiposity Loci in Mexican Americans.
+Genome-wide meta-analysis identifies novel determinants of circulating serum progranulin.
+Whole-genome association study of antibody response to Epstein-Barr virus in an African population: a pilot.
+Meta-analysis of three genome-wide association studies identifies two loci that predict survival and treatment outcome in breast cancer.
+Genome-wide association study of subcortical brain volume in PTSD cases and trauma-exposed controls.
+Genetic Variants Contributing to Circulating Matrix Metalloproteinase 8 Levels and Their Association With Cardiovascular Diseases: A Genome-Wide Analysis.
+Genome-wide association study of classical Hodgkin lymphoma identifies key regulators of disease susceptibility.
+Genome-Wide Gene-Potassium Interaction Analyses on Blood Pressure: The GenSalt Study (Genetic Epidemiology Network of Salt Sensitivity).
+Genome-wide association study identifies the GLDC/IL33 locus associated with survival of osteosarcoma patients.
+Genome-wide scan identifies candidate loci related to remifentanil requirements during laparoscopic-assisted colectomy.
+Genome-Wide Association Study of Male Sexual Orientation.
+Genome-wide association study of coronary artery calcified atherosclerotic plaque in African Americans with type 2 diabetes.
+Genome-wide association study of delay discounting in 23,217 adult research participants of European ancestry.
+Multidimensional Bone Density Phenotyping Reveals New Insights Into Genetic Regulation of the Pediatric Skeleton.
+Bone mineral density in children with acute lymphoblastic leukemia.
+Genome-wide association study identifies a missense variant at APOA5 for coronary artery disease in Multi-Ethnic Cohorts from Southeast Asia.
+Novel Susceptibility Loci for Moyamoya Disease Revealed by a Genome-Wide Association Study.
+Genetic Polymorphisms of PNPLA3 and SAMM50 Are Associated with Nonalcoholic Fatty Liver Disease in a Korean Population.
+Investigating the genetic architecture of dementia with Lewy bodies: a two-stage genome-wide association study.
+Genome-wide Study of Atrial Fibrillation Identifies Seven Risk Loci and Highlights Biological Pathways and Regulatory Elements Involved in Cardiac Development.
+A Genome-Wide Association Study Identifies a Candidate Gene Associated With Atazanavir Exposure Measured in Hair.
+Genetic Determinants of Circulating Estrogen Levels and Evidence of a Causal Effect of Estradiol on Bone Density in Men.
+Genome-wide Association Study Identifies a Regulatory Variant of RGMA Associated With Opioid Dependence in European Americans.
+Splicing variant of 
+Genome-wide analysis of disease progression in age-related macular degeneration.
+Genome-wide association study in 79,366 European-ancestry individuals informs the genetic architecture of 25-hydroxyvitamin D levels.
+Genetic risk of prostate cancer in Ugandan men.
+Genome-wide association study of paclitaxel and carboplatin disposition in women with epithelial ovarian cancer.
+A genome-wide association study in the Japanese population identifies the 12q24 locus for habitual coffee consumption: The J-MICC Study.
+Gene-based association study for lipid traits in diverse cohorts implicates 
+Genome-wide association study of Hirschsprung disease detects a novel low-frequency variant at the RET locus.
+A Genome-Wide Association Study Finds Genetic Associations with Broadly-Defined Headache in UK Biobank (N=223,773).
+Risk estimation model for nonalcoholic fatty liver disease in the Japanese using multiple genetic markers.
+A Genome-wide Study of Common and Rare Genetic Variants Associated with Circulating Thrombin Activatable Fibrinolysis Inhibitor.
+Genome-Wide Association Study Reveals Variants in CFH and CFHR4 Associated with Systemic Complement Activation: Implications in Age-Related Macular Degeneration.
+A Genome-Wide Association Study in Hispanics/Latinos Identifies Novel Signals for Lung Function. The Hispanic Community Health Study/Study of Latinos.
+Bipolar disorder with binge eating behavior: a genome-wide association study implicates PRR5-ARHGAP8.
+The polymorphism rs671 at ALDH2 associated with serum uric acid levels in Chinese Han males: A genome-wide association study.
+Meta-genome-wide association studies identify a locus on chromosome 1 and multiple variants in the MHC region for serum C-peptide in type 1 diabetes.
+A genome-wide association study of corneal astigmatism: The CREAM Consortium.
+A novel variant in 
+A High-risk Haplotype for Premature Menopause in Childhood Cancer Survivors Exposed to Gonadotoxic Therapy.
+Genome-wide meta-analysis identifies five new susceptibility loci for pancreatic cancer.
+Genome-Wide Association Study Identifies a New Locus at 7q21.13 Associated with Hepatitis B Virus-Related Hepatocellular Carcinoma.
+Genome-wide association study identifies 
+GWAS identifies two novel colorectal cancer loci at 16q24.1 and 20q13.12.
+Genomewide Association Study of Alcohol Dependence and Related Traits in a Thai Population.
+Genome-wide pleiotropy analysis of neuropathological traits related to Alzheimer's disease.
+Genome-Wide Association and Functional Studies Identify 
+Genome-Wide Association Approach Identified Novel Genetic Predictors of Heart Rate Response to β-Blockers.
+Joint study of two genome-wide association meta-analyses identified 20p12.1 and 20q13.33 for bone mineral density.
+Genome-wide association study (GWAS) of human host factors influencing viral severity of herpes simplex virus type 2 (HSV-2).
+Genome-Wide Association Study of Serum 25-Hydroxyvitamin D in US Women.
+Five novel loci associated with antipsychotic treatment response in patients with schizophrenia: a genome-wide association study.
+Enhanced Contribution of HLA in Pediatric Onset Ulcerative Colitis.
+Heritability and Genome-Wide Association Analyses of Serum Uric Acid in Middle and Old-Aged Chinese Twins.
+Genome-wide analysis yields new loci associating with aortic valve stenosis.
+Multiplex genomewide association analysis of breast milk fatty acid composition extends the phenotypic association and potential selection of 
+Genome-wide analysis of insomnia disorder.
+Genome Wide Association Study Identifies the 
+Genome-wide association analysis identifies new candidate risk loci for familial intracranial aneurysm in the French-Canadian population.
+Genome-wide analyses of self-reported empathy: correlations with autism, schizophrenia, and anorexia nervosa.
+Two Genetic Variants Associated with Plantar Fascial Disorders.
+A genome-wide association study of IgM antibody against phosphorylcholine: shared genetics and phenotypic relationship to chronic lymphocytic leukemia.
+Susceptibility to corticosteroid-induced adrenal suppression: a genome-wide association study.
+Interactions Between Genetic Variants and Environmental Factors Affect Risk of Esophageal Adenocarcinoma and Barrett's Esophagus.
+A Meta-Analysis of Genome-Wide Association Studies of Growth Differentiation Factor-15 Concentration in Blood.
+Genetic markers for urine haptoglobin is associated with decline in renal function in type 2 diabetes in East Asians.
+Analyses of genome wide association data, cytokines, and gene expression in African-Americans with benign ethnic neutropenia.
+Genetic Variants Influencing Plasma Renin Activity in Hypertensive Patients From the PEAR Study (Pharmacogenomic Evaluation of Antihypertensive Responses).
+Genetic overlap between endometriosis and endometrial cancer: evidence from cross-disease genetic correlation and GWAS meta-analyses.
+Genome-wide association study and meta-analysis identify loci associated with ventricular and supraventricular ectopy.
+Female-Specific Association Between Variants on Chromosome 9 and Self-Reported Diagnosis of Irritable Bowel Syndrome.
+Genome-Wide Associations of Global Electrical Heterogeneity ECG Phenotype: The ARIC (Atherosclerosis Risk in Communities) Study and CHS (Cardiovascular Health Study).
+Genome-wide association study identifies susceptibility loci for B-cell childhood acute lymphoblastic leukemia.
+The genetics of smoking in individuals with chronic obstructive pulmonary disease.
+Genome-wide meta-analysis identifies novel loci associated with parathyroid hormone level.
+A genome wide association study identifies new genes potentially associated with eyelid sagging.
+Genetic variations and risk of placental abruption: A genome-wide association study and meta-analysis of genome-wide association studies.
+Genetic associations with childhood brain growth, defined in two longitudinal cohorts.
+Genome-wide interaction with the insulin secretion locus MTNR1B reveals CMIP as a novel type 2 diabetes susceptibility gene in African Americans.
+Novel risk genes identified in a genome-wide association study for coronary artery disease in patients with type 1 diabetes.
+Mapping genetic variants for cranial vault shape in humans.
+Genetic susceptibility markers for a breast-colorectal cancer phenotype: Exploratory results from genome-wide association studies.
+Common variants on 6q16.2, 12q24.31 and 16p13.3 are associated with major depressive disorder.
+A Genome-Wide Association Study of Diabetic Kidney Disease in Subjects With Type 2 Diabetes.
+Human brain arousal in the resting state: a genome-wide association study.
+Potential genetic modifiers of disease risk and age at onset in patients with frontotemporal lobar degeneration and GRN mutations: a genome-wide association study.
+Family-Based Genome-Wide Association Study of South Indian Pedigrees Supports WNT7B as a Central Corneal Thickness Locus.
+CETP (Cholesteryl Ester Transfer Protein) Concentration: A Genome-Wide Association Study Followed by Mendelian Randomization on Coronary Artery Disease.
+Genetic Regulation of PCSK9 (Proprotein Convertase Subtilisin/Kexin Type 9) Plasma Levels and Its Impact on Atherosclerotic Vascular Disease Phenotypes.
+Identifying the genetic risk factors for treatment response to lurasidone by genome-wide association study: A meta-analysis of samples from three independent clinical trials.
+CCDC102B confers risk of low vision and blindness in high myopia.
+Association of Novel ALX4 Gene Polymorphisms with Antidepressant Treatment Response: Findings from the CO-MED Trial.
+Genome-wide association meta-analysis of circulating odd-numbered chain saturated fatty acids: Results from the CHARGE Consortium.
+Genome-wide association studies for diabetic macular edema and proliferative diabetic retinopathy.
+Genome-wide association study identifies two loci influencing plasma neurofilament light levels.
+Genetic Study of White Matter Integrity in UK Biobank (N=8448) and the Overlap With Stroke, Depression, and Dementia.
+Genome-wide association study identified ATP6V1H locus influencing cerebrospinal fluid BACE activity.
+Genome-wide association analysis identifies a meningioma risk locus at 11p15.5.
+Assessment of rosacea symptom severity by genome-wide association study and expression analysis highlights immuno-inflammatory and skin pigmentation genes.
+Genetic variant for behavioral regulation factor of executive function and its possible brain mechanism in attention deficit hyperactivity disorder.
+Genetics of Obesity Traits: A Bivariate Genome-Wide Association Analysis.
+A truncating mutation in EPOR leads to hypo-responsiveness to erythropoietin with normal haemoglobin.
+Genome-Wide Association Study of Renal Function Traits: Results from the Japan Multi-Institutional Collaborative Cohort Study.
+Genome-wide association study identified new susceptible genetic variants in HLA class I region for hepatitis B virus-related hepatocellular carcinoma.
+Novel genes and insights in complete asthma remission: A genome-wide association study on clinical and complete asthma remission.
+Genome-Wide Association Study of Serum Fructosamine and Glycated Albumin in Adults Without Diagnosed Diabetes: Results From the Atherosclerosis Risk in Communities Study.
+Association Study and Fine-Mapping Major Histocompatibility Complex Analysis of Pemphigus Vulgaris in a Han Chinese Population.
+Genetic study of multimodal imaging Alzheimer's disease progression score implicates novel loci.
+Japanese GWAS identifies variants for bust-size, dysmenorrhea, and menstrual fever that are eQTLs for relevant protein-coding or long non-coding RNAs.
+Genome-wide association study of developmental dysplasia of the hip identifies an association with 
+Genome-wide association study identifies genes associated with neuropathy in patients with head and neck cancer.
+Association analyses of more than 140,000 men identify 63 new prostate cancer susceptibility loci.
+Enrichment of B cell receptor signaling and epidermal growth factor receptor pathways in monoclonal gammopathy of undetermined significance: a genome-wide genetic interaction study.
+Genome-wide association study in Japanese females identifies fifteen novel skin-related trait associations.
+Genome-wide association study of habitual physical activity in over 377,000 UK Biobank participants identifies multiple variants including CADM2 and APOE.
+Transethnic, Genome-Wide Analysis Reveals Immune-Related Risk Alleles and Phenotypic Correlates in Pediatric Steroid-Sensitive Nephrotic Syndrome.
+Identification of five novel genetic loci related to facial morphology by genome-wide association studies.
+Consortium-based genome-wide meta-analysis for childhood dental caries traits.
+Targeted resequencing of a locus for heparin-induced thrombocytopenia on chromosome 5 identified in a genome-wide association study.
+Identification of three novel loci of ALDH2 Gene for Serum Folate levels in a Male Chinese Population by Genome-Wide Association Study.
+A Genome-Wide Association Study of α-Synuclein Levels in Cerebrospinal Fluid.
+Genome-wide association study of cognitive flexibility assessed by the Wisconsin Card Sorting Test.
+Genetic variants in systemic lupus erythematosus susceptibility loci, XKR6 and GLT1D1 are associated with childhood-onset SLE in a Korean cohort.
+Genetic modifiers of radon-induced lung cancer risk: a genome-wide interaction study in former uranium miners.
+Genome-wide association study of nocturnal blood pressure dipping in hypertensive patients.
+Identification of novel susceptibility loci associated with hepatitis B surface antigen seroclearance in chronic hepatitis B.
